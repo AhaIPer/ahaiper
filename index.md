@@ -14,6 +14,41 @@
 谋定而后动
 ```
 
+clip-path: @shape(
+  points: 360;
+  scale: .33;
+  x: sin(3t) + sin(6t) + sin(7t);
+  -y: 2*cos(t) + cos(7t);)
+
+[Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
+
+人生
+├── 健康
+│   ├── 吃
+│   ├── 睡
+│   └── 行
+├── 见识
+│   ├── 读书
+│   ├── 旅行
+│   └── 交友
+├── 专业
+│   ├── 专利
+│   ├── 管理
+│   └── 系统
+├── 价值
+│   ├── 个人
+│   ├── 家人
+│   ├── 朋友
+│   ├── 公司
+│   ├── 行业
+│   ├── 社会
+│   └── 人类
+└── 生活
+    ├── 经历
+    ├── 体验
+    └── 品位
+> [Tree 树形目录可视化生成器](https://devtool.tech/tree)
+
 ## 个人
 
 ![](/img/selfdiscipline.jpg)
@@ -192,6 +227,23 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 
 ### 管理
 
+如果你收到我的邮件，只允许三种操作，否则就要立即辞职。
+第一种，回邮给我，解释为什么我说错了；
+第二种，如果有歧义，要求我进一步澄清；
+第三种，按照我说的去做。
+-- [马斯克](https://www.cnbc.com/2021/11/19/elon-musk-emails-at-tesla-in-october-2021-music-direct-orders.html)今年10月发给所有特斯拉经理的内部邮件
+
+#### [OKR](https://www.okr.com)
+
+![](/img/OKR.png)
+OKR（Objectives & Key Results），中文名称是“目标与关键结果”，是一个风靡全球的目标管理工具。
+
+> OKR 承接的是组织的使命、愿景、战略，启发的是项目与任务。
+
+一个员工的 O，是在理解组织的使命、愿景、战略的基础上制定出来。他的 O 一定要与组织的使命、愿景、战略有相关性。
+一个员工的 KR，代表的是他实现 O 的策略和路径。如果他的 O 达成了，表现出来的结果便是 KR。
+写 OKR 的过程，可以帮助员工理解组织愿景，引发他们对业务的深入思考，从而找到实现自我价值的途径。
+
 #### [给管理者的沟通训练营](https://www.dedao.cn/trainingCamp/detail/aBAjYy4g0BM8Zqgkj34NR5r1dVznlOQJreQ92xGbXvAW6mJYDEeL7oaKy0W8OX5Z?type=trainingcamp)
 
 > 向下沟通不是去改造个体的人，而是改造人所在的环境，因为环境塑造人，我可以通过塑造环境来改善团队的沟通。
@@ -308,6 +360,89 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 
 ### 知识产权
 
+### 通信行业
+
+5G 手机需要更多的天线和更大的电池，所以手机尺寸不会变小，制造小手机将很困难。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=29288587)
+
+#### [蓝牙的来历](https://www.thelocal.dk/20210303/how-a-viking-king-inspired-one-of-our-best-known-modern-technologies/)
+
+蓝牙（bluetooth）是一种短距离、低功耗无线通信协议。这个协议的名字很奇怪，它是怎么来的呢？
+
+1998年，加拿大举行了一次国际会议，讨论如何制定一个无线通信的国际标准。
+当时，各家公司都有自己的无线通信协议，怎样才能推出一个统一的国际标准，成了争论不休的问题。
+爱立信公司的瑞典工程师 Sven Mattisson 和英特尔公司的美国工程师 Jim Kardach，都是会议的参加者。
+
+一天会议结束后，他们一起去了多伦多的一间酒吧，喝酒闲聊，谈到了历史。美国工程师要求瑞典工程师，给他讲讲北欧的历史。后者正好在读一本北欧历史小说，就向前者推荐了这本书。
+小说的一个主要人物是，公元10世纪的丹麦国王哈拉尔德·戈姆森，他有个绰号叫做"蓝牙"。这个绰号的来历不明，有人认为，国王有一颗牙齿坏了，传说中坏牙齿的颜色发蓝，因而得名。
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112526.jpg)
+
+瑞典工程师接着说，`这个国王统一了丹麦`。美国工程师听到这里，灵机一动，提议把将要制定的国际标准的代号定为"蓝牙"，因为新标准会统一其它标准。与会者知道以后，表示同意这个提议。
+最终，这个低成本、低功耗的国际通信标准，就被叫做"蓝牙"，在1998年5月推出，电子设备可以使用它进行短距离无线通信。
+
+世界第一台蓝牙设备在1999年上市。当时，蓝牙还只是临时的代号，但是人们想不出更合适的名字，于是它变成了永久名字。
+
+### 科技行业
+
+美国人喜欢轻资产的高科技业，互联网巨头 FAANG 都是`轻资产重设计`的模式，凡是要盖厂房搞制造就外包，让亚洲人穷忙又赚不了太多的钱，这才是美国人想要的产业模式。
+-- Mobile01 读者
+
+#### [美国宪法拍卖，一个区块链案例](https://www.sothebys.com/en/digital-catalogues/the-constitution-of-the-united-states)
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112118.jpg)
+
+这份第一版印刷的《美国宪法》，最后的成交价是4300万美元。虽然"宪法 DAO"没有成功，但是依然创造了历史，证明基于区块链的项目集资是可行的。
+只是因为几个网友在聊天室的突发奇想，就能在很短的时间内，募集了这么大的一笔钱，出资者遍布世界各地，素不相识。拍卖失败后，又在一天之内原路退回了所有资金（扣除手续费以后）。
+这一切都是因为有了区块链。"宪法 DAO"的发起者都是普通人，无权无势，用到的工具都是现成的公开服务，不用自己开发。任何一个人都可以参考他们的做法，使用同样的工具，为自己的项目集资，我觉得这就是这件事的意义，`展示了区块链带来的金融变革。有了这些工具，以后为项目集资、创立股份公司是一件多么方便的事情，成本多么低。`
+
+#### [乔纳森·艾维的最新设计](https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect)
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110702.jpg)
+最近，他发布了离开苹果以后的第一个公开的设计作品。那是为英国环保基金会 Terra Carta 设计的一个印章，专门颁发给为环保做出贡献的公司。
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110705.jpg)
+这个印章覆盖着开花的蔓藤和鸟类、蜜蜂、蝴蝶、瓢虫，象征着大自然，让人感到乐观和生长。如果仔细观察，图案里面还有七个互相交织的圆环，提供了对称性。最不简单的是，由于环保的原因，这个印章不能使用贵重的金属制作，只能是纸质。设计师怎样才能让纸质印章看起来很贵重呢？艾维好像确实做到了。
+
+2016年，WhatsApp 的用户超过10亿，但是只有50个工程师。每个小团队由1到3名工程师组成，拥有很大的自主权。
+--[《WhatsApp 如何在只有50名工程师的情况下扩展到10亿用户》](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
+
+#### [Archive.org Serendipity](https://www.locserendipity.com/PushPlay.html)
+
+"互联网档案馆"收集了很多早期的黑胶唱片音乐作品，都已经过了版权保护期。这个网站可以收听这些音乐，按一下按钮，就会随机播放一段音乐。
+
+#### [免费图片资源](https://admcpr.com/where-to-find-royalty-free-images/)
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021101304.jpg)
+这篇文章列出了常用的免费图片网站，可以获取各种能够自由使用的照片和插图。
+
+#### [古人活在今天的样子](https://mossandfog.com/artist-imagines-what-famous-historical-figures-would-look-like-today/)
+一个美国艺术家想知道，古人如果活在今天会是什么样子。她就用今天的服装和风格，重新绘制了古人的画像。
+
+达芬奇
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091201.jpg)
+
+戴珍珠耳环的少女
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091202.jpg)
+
+蒙娜丽莎
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091203.jpg)
+
+兵马俑
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091204.jpg)
+
+#### [英国议会的会议厅](https://www.notboring.co/p/the-interface-phase)
+
+大多数国家的议会厅，都是大剧场设计，前面是主席台，后面是座席，比如美国国会。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091406.jpg)
+
+但是，英国议会与众不同，分成面对面的两个区，两边的议员可以当面对话。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091407.jpg)
+
+第二次世界大战以后，英国首相丘吉尔解释为什么要采取这种形状。因为这可以帮助辩论，使得人们自然分成两方，你要么与我们站在一起，要么在对面反对我们，没有留下任何模棱两可的空间。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AhaIPer/ahaiper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -349,4 +484,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 参考
 
 1. [得到](https://www.dedao.cn/)
+2. [阮一峰](https://www.ruanyifeng.com/blog/)
 
