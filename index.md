@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![](/img/selfdiscipline.jpg)
+> 主人翁，物以稀为贵，创造高价值专利产品，沉浸并乐在其中...
+
+![](/img/knowyouself.jpg)
+>“邓宁-克鲁格效应（Dunning–Kruger effect）”能力欠缺的人有一种虚幻的自我优越感，错误地认为自己比真实情况更加优秀，认识你自己（Know Yourself），每个人都是井底蛙，也都在坐井观天，差别在于井口大小；每个人都是攀登者，有人上山有人下，差别在于高度速度...
