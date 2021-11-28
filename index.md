@@ -14,39 +14,7 @@
 谋定而后动
 ```
 
-clip-path: @shape(
-  points: 360;
-  scale: .33;
-  x: sin(3t) + sin(6t) + sin(7t);
-  -y: 2*cos(t) + cos(7t);)
-
-[Polygon Shapes](https://yuanchuan.dev/polygon-shapes)
-
-人生
-├── 健康
-│   ├── 吃
-│   ├── 睡
-│   └── 行
-├── 见识
-│   ├── 读书
-│   ├── 旅行
-│   └── 交友
-├── 专业
-│   ├── 专利
-│   ├── 管理
-│   └── 系统
-├── 价值
-│   ├── 个人
-│   ├── 家人
-│   ├── 朋友
-│   ├── 公司
-│   ├── 行业
-│   ├── 社会
-│   └── 人类
-└── 生活
-    ├── 经历
-    ├── 体验
-    └── 品位
+![](/img/lifetree.jpeg)
 > [Tree 树形目录可视化生成器](https://devtool.tech/tree)
 
 ## 个人
