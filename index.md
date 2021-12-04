@@ -3,6 +3,9 @@
 ![](/img/sunsea.jpeg)
 > IPCreator：回归、打造及享受真我，创造更大价值及意义，艺术美感。
 
+![](/img/ohyeah.jpeg)
+> 7岁以前，吃好玩好睡好，“三好”学生——身体好，性格好，兴趣好。
+
 ```
 慢就是快
 快就是慢
@@ -267,6 +270,38 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 ![](/img/shanghai20211128035.jpeg)
 ![](/img/shanghai20211128036.jpeg)
 
+12.4日思南路、思南书局（上海黄浦区皋兰路16号）、复兴公园
+
+![](/img/shanghai2021204001.jpeg)
+![](/img/shanghai2021204002.jpeg)
+![](/img/shanghai2021204003.jpeg)
+![](/img/shanghai2021204004.jpeg)
+![](/img/shanghai2021204005.jpeg)
+![](/img/shanghai2021204006.jpeg)
+![](/img/shanghai2021204007.jpeg)
+![](/img/shanghai2021204008.jpeg)
+![](/img/shanghai2021204009.jpeg)
+![](/img/shanghai2021204010.jpeg)
+![](/img/shanghai2021204011.jpeg)
+![](/img/shanghai2021204012.jpeg)
+![](/img/shanghai2021204013.jpeg)
+![](/img/shanghai2021204014.jpeg)
+![](/img/shanghai2021204015.jpeg)
+![](/img/shanghai2021204016.jpeg)
+![](/img/shanghai2021204017.jpeg)
+![](/img/shanghai2021204018.jpeg)
+![](/img/shanghai2021204019.jpeg)
+![](/img/shanghai2021204020.jpeg)
+![](/img/shanghai2021204021.jpeg)
+![](/img/shanghai2021204022.jpeg)
+![](/img/shanghai2021204023.jpeg)
+![](/img/shanghai2021204024.jpeg)
+![](/img/shanghai2021204025.jpeg)
+![](/img/shanghai2021204026.jpeg)
+![](/img/shanghai2021204027.jpeg)
+![](/img/shanghai2021204028.jpeg)
+![](/img/shanghai2021204029.jpeg)
+
 ## 专业
 
 ### 管理
@@ -276,6 +311,9 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 第二种，如果有歧义，要求我进一步澄清；
 第三种，按照我说的去做。
 -- [马斯克](https://www.cnbc.com/2021/11/19/elon-musk-emails-at-tesla-in-october-2021-music-direct-orders.html)今年10月发给所有特斯拉经理的内部邮件
+
+![](/img/9500.jpeg)
+> 改变环境影响人。
 
 #### [OKR](https://www.okr.com)
 
