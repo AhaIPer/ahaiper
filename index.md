@@ -311,15 +311,15 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 
 外滩矗立着52幢风格迥异的古典复兴大楼，素有外滩万国建筑博览群之称，是中国近现代重要史迹及代表性建筑，上海的地标之一。1996年11月，国务院将其列入第四批全国重点文物保护单位。与外滩隔江相对的浦东陆家嘴，有上海标志性建筑东方明珠、金茂大厦、上海中心大厦、上海环球金融中心等，成为中国改革开放的象征和上海现代化建设的缩影。
 
-![](https://upload-images.jianshu.io/upload_images/620565-ed9bc9a50a8da2bf.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-6752c1a5adcb42ae.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-975985d183dcbf23.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-865f299b1f7df48a.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-c0ffd3b7b6ad37d8.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-107c90875eafb09d.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-91ec00468fda84c4.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-47251ea1e34c8e56.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
-![](https://upload-images.jianshu.io/upload_images/620565-7b3424c369a6d3f8.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
+![](https://upload-images.jianshu.io/upload_images/620565-ed9bc9a50a8da2bf.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-6752c1a5adcb42ae.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-975985d183dcbf23.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-865f299b1f7df48a.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-c0ffd3b7b6ad37d8.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-107c90875eafb09d.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-91ec00468fda84c4.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-47251ea1e34c8e56.jpeg)
+![](https://upload-images.jianshu.io/upload_images/620565-7b3424c369a6d3f8.jpeg)
 
 
 #### 南京路步行街
