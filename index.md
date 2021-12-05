@@ -1665,8 +1665,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 1. [得到](https://www.dedao.cn/)
 2. [阮一峰](https://www.ruanyifeng.com/blog/)
-3. [codepng](https://www.codepng.app)
-4. [Repobeats](https://repobeats.axiom.co/configs)
-5. [giscus](https://giscus.app/zh-CN)
+3. [李笑来](http://lixiaolai.com/#/)
+4. [codepng](https://www.codepng.app)
+5. [Repobeats](https://repobeats.axiom.co/configs)
+6. [giscus](https://giscus.app/zh-CN)
 
 ![Alt](https://repobeats.axiom.co/api/embed/c7c2cd5f92aeed889d24ba9f50aaebc6cf918a3c.svg "Repobeats analytics image")
