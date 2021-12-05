@@ -294,6 +294,18 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 ![](/img/shanghai2021204028.jpeg)
 ![](/img/shanghai2021204029.jpeg)
 
+12.5日马当路、LuOne 西西弗书店，启用新的专业域名
+
+![](/img/Shanghai20211205001.jpeg)
+![](/img/Shanghai20211205002.jpeg)
+![](/img/Shanghai20211205003.jpeg)
+![](/img/Shanghai20211205004.jpeg)
+![](/img/Shanghai20211205005.jpeg)
+![](/img/Shanghai20211205006.jpeg)
+![](/img/Shanghai20211205007.jpeg)
+![](/img/Shanghai20211205008.jpeg)
+![](/img/Shanghai20211205009.jpeg)
+
 ## 专业
 
 ### 管理
