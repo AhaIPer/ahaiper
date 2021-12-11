@@ -10,6 +10,10 @@
 ![](/img/lovesugar.jpeg)
 > 走起，吃起，玩起，周末一天学习一天游玩。
 
+![](/img/reading.jpeg)
+> 父母是小孩最好的榜样。
+
+
 ```
 慢就是快
 快就是慢
@@ -37,6 +41,10 @@
 
 ![](/img/IMG_20211009_091931_208.jpg)
 >直言有讳。
+
+### [上海](shanghai.md)
+### [认知](/cognition.md)
+### [管理](/management.md)
 
 1. [精力管理](https://www.jianshu.com/p/d8aac07ffa39)
 2. [冥想：精力恢复术](https://www.jianshu.com/p/0960ad225cac)
@@ -427,124 +435,6 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 
 一个无法自立的人身边，多半有个一直在提供服务的帮手。如果从未跌倒，也就谈不到什么爬起，更说不到什么自立。爱也有非常酷烈的一面，不都是温情和温柔。
 
-## 生活
-
-### 上海
-
-#### 上海外滩
-
-黄昏及夜景（18:00开灯）
-
-外滩（英文：The Bund；上海话拼音：nga thae），位于上海市黄浦区的黄浦江畔，即外黄浦滩，为中国历史文化街区。1844年（清道光廿四年）起，外滩这一带被划为英国租界，成为上海十里洋场的真实写照，也是旧上海租界区以及整个上海近代城市开始的起点。
-
-外滩全长1.5公里，南起延安东路，北至苏州河上的外白渡桥，东面即黄浦江，西面是旧上海金融、外贸机构的集中地。上海辟为商埠以后，外国的银行、商行、总会、报社开始在此云集，外滩成为全国乃至远东的金融中心。民国三十二年（1943年）8月，外滩随交还上海公共租界于汪伪国民政府，结束长达百年的租界时期，于民国三十四年（1945年）拥有正式路名中山东一路。
-
-外滩矗立着52幢风格迥异的古典复兴大楼，素有外滩万国建筑博览群之称，是中国近现代重要史迹及代表性建筑，上海的地标之一。1996年11月，国务院将其列入第四批全国重点文物保护单位。与外滩隔江相对的浦东陆家嘴，有上海标志性建筑东方明珠、金茂大厦、上海中心大厦、上海环球金融中心等，成为中国改革开放的象征和上海现代化建设的缩影。
-
-![](https://upload-images.jianshu.io/upload_images/620565-ed9bc9a50a8da2bf.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-6752c1a5adcb42ae.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-975985d183dcbf23.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-865f299b1f7df48a.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-c0ffd3b7b6ad37d8.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-107c90875eafb09d.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-91ec00468fda84c4.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-47251ea1e34c8e56.jpeg)
-![](https://upload-images.jianshu.io/upload_images/620565-7b3424c369a6d3f8.jpeg)
-
-
-#### 南京路步行街
-
-11.27日雅戈尔会员日
-11.28日西西弗书店
-
-![](/img/shanghai20211128001.jpeg)
-![](/img/shanghai20211128002.jpeg)
-![](/img/shanghai20211128003.jpeg)
-![](/img/shanghai20211128004.jpeg)
-![](/img/shanghai20211128005.jpeg)
-![](/img/shanghai20211128006.jpeg)
-![](/img/shanghai20211128007.jpeg)
-![](/img/shanghai20211128008.jpeg)
-![](/img/shanghai20211128009.jpeg)
-![](/img/shanghai20211128010.jpeg)
-![](/img/shanghai20211128011.jpeg)
-![](/img/shanghai20211128012.jpeg)
-![](/img/shanghai20211128013.jpeg)
-![](/img/shanghai20211128014.jpeg)
-![](/img/shanghai20211128015.jpeg)
-![](/img/shanghai20211128016.jpeg)
-![](/img/shanghai20211128017.jpeg)
-![](/img/shanghai20211128018.jpeg)
-![](/img/shanghai20211128019.jpeg)
-![](/img/shanghai20211128020.jpeg)
-![](/img/shanghai20211128021.jpeg)
-![](/img/shanghai20211128022.jpeg)
-![](/img/shanghai20211128023.jpeg)
-![](/img/shanghai20211128024.jpeg)
-![](/img/shanghai20211128025.jpeg)
-![](/img/shanghai20211128026.jpeg)
-![](/img/shanghai20211128027.jpeg)
-![](/img/shanghai20211128028.jpeg)
-![](/img/shanghai20211128029.jpeg)
-![](/img/shanghai20211128030.jpeg)
-![](/img/shanghai20211128031.jpeg)
-![](/img/shanghai20211128032.jpeg)
-![](/img/shanghai20211128033.jpeg)
-![](/img/shanghai20211128034.jpeg)
-![](/img/shanghai20211128035.jpeg)
-![](/img/shanghai20211128036.jpeg)
-
-12.4日思南路、思南书局（上海黄浦区皋兰路16号）、复兴公园
-
-![](/img/shanghai2021204001.jpeg)
-![](/img/shanghai2021204002.jpeg)
-![](/img/shanghai2021204003.jpeg)
-![](/img/shanghai2021204004.jpeg)
-![](/img/shanghai2021204005.jpeg)
-![](/img/shanghai2021204006.jpeg)
-![](/img/shanghai2021204007.jpeg)
-![](/img/shanghai2021204008.jpeg)
-![](/img/shanghai2021204009.jpeg)
-![](/img/shanghai2021204010.jpeg)
-![](/img/shanghai2021204011.jpeg)
-![](/img/shanghai2021204012.jpeg)
-![](/img/shanghai2021204013.jpeg)
-![](/img/shanghai2021204014.jpeg)
-![](/img/shanghai2021204015.jpeg)
-![](/img/shanghai2021204016.jpeg)
-![](/img/shanghai2021204017.jpeg)
-![](/img/shanghai2021204018.jpeg)
-![](/img/shanghai2021204019.jpeg)
-![](/img/shanghai2021204020.jpeg)
-![](/img/shanghai2021204021.jpeg)
-![](/img/shanghai2021204022.jpeg)
-![](/img/shanghai2021204023.jpeg)
-![](/img/shanghai2021204024.jpeg)
-![](/img/shanghai2021204025.jpeg)
-![](/img/shanghai2021204026.jpeg)
-![](/img/shanghai2021204027.jpeg)
-![](/img/shanghai2021204028.jpeg)
-![](/img/shanghai2021204029.jpeg)
-
-12.5日马当路、LuOne 西西弗书店，启用新的专业域名
-
-![](/img/Shanghai20211205001.jpeg)
-![](/img/Shanghai20211205002.jpeg)
-![](/img/Shanghai20211205003.jpeg)
-![](/img/Shanghai20211205004.jpeg)
-![](/img/Shanghai20211205005.jpeg)
-![](/img/Shanghai20211205006.jpeg)
-![](/img/Shanghai20211205007.jpeg)
-![](/img/Shanghai20211205008.jpeg)
-![](/img/Shanghai20211205009.jpeg)
-
-长泰广场 言几又
-
-![](/img/Shanghai202112YJY001.jpeg)
-![](/img/Shanghai202112YJY002.jpeg)
-![](/img/Shanghai202112YJY003.jpeg)
-![](/img/Shanghai202112YJY004.jpeg)
-![](/img/Shanghai202112YJY005.jpeg)
 
 ## 专业
 
@@ -1664,99 +1554,7 @@ Android 团队设想，通过为手机制造商提供云服务、以及应用程
 心理学家研究发现，人的记忆具有位置效应。当按顺序回忆一个序列时，我们对第一项和最后一项的记忆最好，对中间项目的记忆最差。
 -- [维基百科](https://en.wikipedia.org/wiki/Serial-position_effect)
 
-#### [Drone Photo Awards](https://droneawards.photo/gallery/2021)
 
-![](/img/pic001.jpg)
-![](/img/pic002.jpg)
-![](/img/pic003.jpg)
-![](/img/pic004.jpg)
-![](/img/pic005.jpg)
-![](/img/pic006.jpg)
-![](/img/pic007.jpg)
-![](/img/pic008.jpg)
-![](/img/pic009.jpg)
-![](/img/pic010.jpg)
-![](/img/pic011.jpg)
-![](/img/pic012.jpg)
-![](/img/pic013.jpg)
-![](/img/pic014.jpg)
-![](/img/pic015.jpg)
-![](/img/pic016.jpg)
-![](/img/pic017.jpg)
-![](/img/pic018.jpg)
-![](/img/pic019.jpg)
-![](/img/pic020.jpg)
-![](/img/pic021.jpg)
-![](/img/pic022.jpg)
-![](/img/pic023.jpg)
-![](/img/pic024.jpg)
-![](/img/pic025.jpg)
-![](/img/pic026.jpg)
-![](/img/pic027.jpg)
-![](/img/pic028.jpg)
-![](/img/pic029.jpg)
-![](/img/pic030.jpg)
-![](/img/pic031.jpg)
-![](/img/pic032.jpg)
-![](/img/pic033.jpg)
-![](/img/pic034.jpg)
-![](/img/pic035.jpg)
-![](/img/pic036.jpg)
-![](/img/pic037.jpg)
-![](/img/pic038.jpg)
-![](/img/pic039.jpg)
-![](/img/pic040.jpg)
-
-#### [Ocean Photographer of the Year 2021 winners – in pictures](https://www.theguardian.com/environment/gallery/2021/sep/20/ocean-photographer-of-the-year-2021-winners-in-pictures)
-
-![](/img/sea001.jpg)
-![](/img/sea002.jpg)
-![](/img/sea003.jpg)
-![](/img/sea004.jpg)
-![](/img/sea005.jpg)
-![](/img/sea006.jpg)
-
-#### [Bird Photographer of the Year 2021 Winners](https://www.birdpoty.com/2021-winners)
-
-![](/img/bird001.jpg)
-![](/img/bird002.jpg)
-![](/img/bird003.jpg)
-![](/img/bird004.jpg)
-![](/img/bird005.jpg)
-![](/img/bird006.jpg)
-![](/img/bird007.jpg)
-![](/img/bird008.jpg)
-![](/img/bird009.jpg)
-![](/img/bird010.jpg)
-![](/img/bird011.jpg)
-![](/img/bird012.jpg)
-![](/img/bird013.jpg)
-![](/img/bird014.jpg)
-![](/img/bird015.jpg)
-![](/img/bird016.jpg)
-![](/img/bird017.jpg)
-![](/img/bird018.jpg)
-![](/img/bird019.jpg)
-![](/img/bird020.jpg)
-![](/img/bird021.jpg)
-![](/img/bird022.jpg)
-![](/img/bird023.jpg)
-![](/img/bird024.jpg)
-![](/img/bird025.jpg)
-![](/img/bird026.jpg)
-![](/img/bird027.jpg)
-![](/img/bird028.jpg)
-![](/img/bird029.jpg)
-![](/img/bird030.jpg)
-![](/img/bird031.jpg)
-![](/img/bird032.jpg)
-![](/img/bird033.jpg)
-![](/img/bird034.jpg)
-![](/img/bird035.jpg)
-![](/img/bird036.jpg)
-![](/img/bird037.jpg)
-![](/img/bird038.jpg)
-![](/img/bird039.jpg)
 
 #### ["元宇宙" 网站]()
 据说，下面三个是目前最具有"元宇宙"特征的网站。它们都允许用户拥有虚拟土地，在上面构建自己的世界，创造一种独特的体验。
@@ -1784,44 +1582,6 @@ Android 团队设想，通过为手机制造商提供云服务、以及应用程
 3. [《纽约时报》2019年度十大好书](https://cn.nytimes.com/culture/20191127/best-books/)
 4. [元宇宙经济：你不知道的商机藏在哪里](https://www.bbc.com/zhongwen/simp/science-59418021)
 5. [美国心脏协会：改善心脏健康的十大饮食模式](https://www.bbc.com/zhongwen/simp/science-59508516)
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AhaIPer/ahaiper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AhaIPer/ahaiper/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
 ## 案例
