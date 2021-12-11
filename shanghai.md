@@ -1,7 +1,7 @@
 # 上海
 [返回主页](/)
 
-![](/img/shanghai20211128005.jpeg)
+![](/img/shanghai20211128012.jpeg)
 > 魔都。
 
 ## 上海外滩
@@ -274,6 +274,11 @@
 
 ## 有趣
 
+### [今年的世界最佳文化建筑](https://www.dezeen.com/2021/11/22/dezeen-awards-2021-architecture-category-winners/)
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021113005.webp)
+> 国际知名的建筑设计网站 Dezeen，每年评选各类的世界最佳建筑。今年的世界最佳文化建筑，授予了黑龙江亚布力国际会议中心，它位于群山之中的滑雪场，一个起伏的白色大屋顶盖住了会场。
+
 ### [古人活在今天的样子](https://mossandfog.com/artist-imagines-what-famous-historical-figures-would-look-like-today/)
 一个美国艺术家想知道，古人如果活在今天会是什么样子。她就用今天的服装和风格，重新绘制了古人的画像。
 
@@ -305,5 +310,8 @@
 1. [全市首批21家医疗机构可24小时核酸检测](https://www.shanghai.gov.cn/nw4411/20211028/1c3acb83e8dc4ae5acedf1cfbbef1bd2.html)
 2. [【严阵以待】宝藤核酸检测竭力护您周全](http://www.biotecan.com/ArticleDetail/ff410901-2b3b-480a-88fd-af3779a3860b)
 3. [另眼观世界](https://www.jianshu.com/p/64f40e7cb319)
+4. [候鸟飞行的世界纪录](https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along)
+5. [万米海底](https://www.jfdaily.com/news/detail?id=429954)
+6. [可视化地壳元素](https://www.visualcapitalist.com/visualizing-the-abundance-of-elements-in-the-earths-crust/)
 
 [返回主页](/)
