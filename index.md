@@ -13,6 +13,8 @@
 ![](/img/reading.jpeg)
 > 父母是小孩最好的榜样。
 
+![image](https://user-images.githubusercontent.com/95151698/145704334-fb1cc3d6-d1bd-4892-9be0-9515c4977724.png)
+> 奔跑吧，My girl.
 
 ```
 慢就是快
