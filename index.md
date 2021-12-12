@@ -23,6 +23,14 @@
 有为即无为
 三思而后行
 谋定而后动
+才不足则多谋
+识不足则多虑
+威不足则多怒
+信不足则多言
+勇不足则多劳
+明不足则多察
+理不足则多辩
+情不足则多仪
 ```
 
 ![](/img/lifetree.jpeg)
@@ -92,7 +100,8 @@
 
 ## [商业](/commerce.md)
 ## [科技](/technology.md)
-## [上海](shanghai.md)
+## [上海](/shanghai.md)
+## [故事](/story.md)
 ## [管理](/management.md)
 ## [认知](/cognition.md)
 ## [健康](/health.md)
