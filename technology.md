@@ -95,6 +95,8 @@ Web3 的很多特征还不明确，但是国外很多文章认为，它跟区块
 我所能做的就是坐下来，惊讶地看着它。
 -- 美国科幻小说家尼尔·斯蒂芬森（Neal Stephenson）是"元宇宙"这个词的发明者。记者问他如何看待 Facebook 改名为元宇宙公司，他说了上面的话。
 
+[数字资产研究院学术与技术委员会主任朱嘉明教授曾表示](https://www.ithome.com/0/591/203.htm)：“元宇宙”的内涵是吸纳了信息革命（5G / 6G）、互联网革命（web3.0）、人工智能革命，以及 VR（虚拟现实）、AR（增强现实）、MR（混合现实），特别是游戏引擎在内的虚拟现实技术革命的成果。”
+
 ### [元宇宙会成功吗](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120703.webp)
@@ -232,6 +234,13 @@ Android 团队设想，通过为手机制造商提供云服务、以及应用程
 
 Firefox 的邮件别名服务，用来隐藏真实邮件地址，目的是注册不同的外部服务时，使用不同的邮箱。免费账户可以注册5个别名。
 
+## [7699 元起，OPPO Find N 正式发布：7.1 英寸折叠大屏，搭载骁龙 888 处理器](https://www.ithome.com/0/592/603.htm)
+
+![image](https://user-images.githubusercontent.com/95151698/146170022-2cc09a45-c71d-4667-ada8-3889de199360.png)
+![image](https://user-images.githubusercontent.com/95151698/146170070-5994327f-f7ff-44c8-9e62-865f4274a350.png)
+![image](https://user-images.githubusercontent.com/95151698/146170234-1d5c999e-f384-49ee-844c-f76dbb3d58dd.png)
+![image](https://user-images.githubusercontent.com/95151698/146170264-5238d8e4-8b73-4735-aab2-40e882deca63.png)
+
 
 ## 参考
 
@@ -241,5 +250,6 @@ Firefox 的邮件别名服务，用来隐藏真实邮件地址，目的是注册
 4. [How To Make A CPU - A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
 5. [比尔·盖茨：历经艰难的一年，我依然满怀乐观](https://mp.weixin.qq.com/s/X8QI1zaligHxBcWB-Rrd8A)
 6. [饶毅：中国未来最大的挑战](https://mp.weixin.qq.com/s/eS2i1gY4mdNiM_0ugpkxbA)
+7. [vivo OriginOS Ocean 系统深度体验：别翻译了，这就是惊喜](https://www.ithome.com/0/591/514.htm)
 
 [返回主页](/)
