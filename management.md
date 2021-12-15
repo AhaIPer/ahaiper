@@ -191,6 +191,18 @@
 
 ![](/img/0553766C-AAE8-4D17-B694-F2EE4E7FA613.jpeg)
 
+### 沟通营金句
+
+![image](https://user-images.githubusercontent.com/95151698/146110280-4e197a6b-b9e6-4ba4-af23-6a2310158d88.png)
+![image](https://user-images.githubusercontent.com/95151698/146110287-2396bac4-cd7f-41cf-9f42-a86c7461b1c0.png)
+![image](https://user-images.githubusercontent.com/95151698/146110295-1dd706fa-4d69-4186-beb8-ac9018bae71d.png)
+![image](https://user-images.githubusercontent.com/95151698/146110299-e9274d4d-3dbc-43e6-b82a-aa8a1eba72ad.png)
+![image](https://user-images.githubusercontent.com/95151698/146110314-2a942c74-92df-4c20-b01b-17ec7cc0da0b.png)
+![image](https://user-images.githubusercontent.com/95151698/146110320-77734361-446e-48fd-9e11-1ba6c6f16d13.png)
+![image](https://user-images.githubusercontent.com/95151698/146110328-413a8b5c-dd1c-461b-a11b-881d747e87b9.png)
+![image](https://user-images.githubusercontent.com/95151698/146110331-cd81719d-a271-4c70-a593-bd7f340c8811.png)
+
+
 ### 管理者的三大底层沟通能力
 
 把自己打造成团队的信息源，并通过一些机制设计，让这些信息在团队里流转起来，这是Linker特别重要的责任。
