@@ -114,6 +114,7 @@
 ## [上海](/shanghai.md)
 ## [故事](/story.md)
 ## [管理](/management.md)
+## [写作](/writing.md)
 ## [认知](/cognition.md)
 ## [健康](/health.md)
 
