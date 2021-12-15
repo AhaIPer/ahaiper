@@ -137,6 +137,22 @@
 ![](/img/20211211011.jpeg)
 ![](/img/20211211012.jpeg)
 
+## 住处及飞机场
+
+12.15日，返深
+
+![image](https://user-images.githubusercontent.com/95151698/146110014-23c93f50-94fc-4092-9b5d-630c2536167c.png)
+![image](https://user-images.githubusercontent.com/95151698/146110032-9a461cd5-d1f3-4446-9a89-6d70bd6b9f00.png)
+![image](https://user-images.githubusercontent.com/95151698/146110050-069a3610-6703-4524-b0c0-b483276db1ef.png)
+![image](https://user-images.githubusercontent.com/95151698/146110057-fc02b5eb-df41-4008-ad2b-ed95900fa58e.png)
+![image](https://user-images.githubusercontent.com/95151698/146110068-f0aa543d-0646-4c3e-89c8-c91b20cb28c9.png)
+![image](https://user-images.githubusercontent.com/95151698/146110079-4f40f41c-97c4-45bb-a8d3-80e8f5322766.png)
+![image](https://user-images.githubusercontent.com/95151698/146110093-5a3acdf3-042f-4807-8fd7-ee3879d4fe2e.png)
+![image](https://user-images.githubusercontent.com/95151698/146110105-e8d97c24-8b51-4c2b-bf1f-5ace711c8cb6.png)
+![image](https://user-images.githubusercontent.com/95151698/146110120-d1ae6491-cf09-4b1a-8d9f-93c4b19d66ef.png)
+![image](https://user-images.githubusercontent.com/95151698/146110126-a4edf2d3-26c8-4e81-8b90-67386853e423.png)
+
+
 ## 返深
 
 ### [紧急公告  抵达深圳市提醒](https://flights.ctrip.com/online/list/oneway-sha-szx?_=1&depdate=2021-12-12&cabin=Y_S_C_F)
