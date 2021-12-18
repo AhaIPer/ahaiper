@@ -4,6 +4,21 @@
 ![](/img/storylogo.jpg)
 > 从小爱看故事会，创造属于自己的故事。
 
+## 绝杀的故事
+
+> 为什么要拉锯到最后呢？拼尽全力全力，方能毫不费力。
+
+![image](https://user-images.githubusercontent.com/95151698/146620792-7d7c1ada-344c-4245-8622-7abbfc15cc2b.png)
+![image](https://user-images.githubusercontent.com/95151698/146620798-0e61b431-1a6f-47ff-868c-4bd16a762e12.png)
+![image](https://user-images.githubusercontent.com/95151698/146620802-1ee627b8-b6b7-462d-b565-b41b7e93af60.png)
+![image](https://user-images.githubusercontent.com/95151698/146620806-992d889b-210a-4187-97be-8e2f8b6466fb.png)
+![image](https://user-images.githubusercontent.com/95151698/146620812-c38265c3-f289-464a-bbbd-5fe3c663ce97.png)
+![image](https://user-images.githubusercontent.com/95151698/146620816-e98f1b27-c88d-4316-a70e-4129e3beff6a.png)
+![image](https://user-images.githubusercontent.com/95151698/146620825-32d5e3d1-c237-40ce-9c15-dfe7ed804f9e.png)
+![image](https://user-images.githubusercontent.com/95151698/146620831-b70b5781-6a83-4937-a696-5b3fee49935e.png)
+
+
+
 ## [蜀鄙二僧](https://baike.baidu.com/item/%E4%B8%BA%E5%AD%A6%E4%B8%80%E9%A6%96%E7%A4%BA%E5%AD%90%E4%BE%84/4190664)
 
 ![](/img/twoclergy.jpeg)
