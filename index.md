@@ -25,6 +25,18 @@
 ![image](https://user-images.githubusercontent.com/95151698/146109789-4a6e364a-7865-49e5-8c94-4f005b5e33f1.png)
 > 12.15日返深
 
+![image](https://user-images.githubusercontent.com/95151698/146642647-218dfb5d-ed17-4569-ab92-fea30dbd6793.png)
+![image](https://user-images.githubusercontent.com/95151698/146642650-205ee6c0-2c5a-4de7-b6e3-5f6d07383699.png)
+![image](https://user-images.githubusercontent.com/95151698/146642642-d6d4e6f4-b049-40cb-b787-1a9068fe3f00.png)
+![image](https://user-images.githubusercontent.com/95151698/146642662-51f7e68f-3789-4943-ac36-5bc9db763bcd.png)
+![image](https://user-images.githubusercontent.com/95151698/146642686-e5a88539-e2c0-43c8-af8d-ccb71ff6b660.png)
+![image](https://user-images.githubusercontent.com/95151698/146642704-208d6c65-e220-47c0-95dc-aa82e57bf15f.png)
+![image](https://user-images.githubusercontent.com/95151698/146642633-6f85fd01-deb5-41e4-ae1e-d720de9b8d8c.png)
+![image](https://user-images.githubusercontent.com/95151698/146642629-e9c9db1f-b240-48df-b40c-fd2e9e63e612.png)
+![image](https://user-images.githubusercontent.com/95151698/146642895-04542028-09c6-4e50-8eb1-4b5f32912874.png)
+> 身体力行，言传身教，习惯成自然。
+
+
 ```
 慢就是快
 快就是慢
