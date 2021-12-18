@@ -6,6 +6,12 @@
 
 ## 得到学习笔记
 
+![image](https://user-images.githubusercontent.com/95151698/146642581-32e43998-bd53-4627-a255-c42ed21152f9.png)
+![image](https://user-images.githubusercontent.com/95151698/146642588-63489f61-7f8a-47b6-90d8-7e6a9b0e6b39.png)
+![image](https://user-images.githubusercontent.com/95151698/146642593-a551b825-49d8-4b43-a03e-3fec49ff7dbd.png)
+![image](https://user-images.githubusercontent.com/95151698/146642842-bbca91df-9155-4f33-9a98-01f66b507976.png)
+![image](https://user-images.githubusercontent.com/95151698/146642887-c7dcbc3c-5569-4f63-b022-898f2c5da3d9.png)
+
 ### [刘润系列]()
 
 ![](/img/cognition001.jpeg)
