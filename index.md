@@ -36,6 +36,8 @@
 ![image](https://user-images.githubusercontent.com/95151698/146642895-04542028-09c6-4e50-8eb1-4b5f32912874.png)
 > 身体力行，言传身教，习惯成自然。
 
+![image](https://user-images.githubusercontent.com/95151698/146660230-971571f7-8630-4bd4-8285-c2fd0536c6e0.png)
+> 天马星空
 
 ```
 慢就是快
