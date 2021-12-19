@@ -140,6 +140,12 @@ Web3 的很多特征还不明确，但是国外很多文章认为，它跟区块
 
 以后，官方机构在虚拟世界设置派出机构，估计会越来越常见，就像在微信、抖音设立官方账号一样。
 
+[Meta 开放虚拟世界 Horizon Worlds（中文）](https://www.ifanr.com/1459851)
+
+![image](https://user-images.githubusercontent.com/95151698/146665071-1912e3eb-505f-4357-8b1e-a172b92def11.png)
+
+脸书公司改名 Meta 以后，发布了第一个元宇宙产品，叫做 Horizon Worlds，很像一个虚拟社区。本文是对 Horizon Worlds 的初步介绍。
+
 ## [蓝牙的来历](https://www.thelocal.dk/20210303/how-a-viking-king-inspired-one-of-our-best-known-modern-technologies/)
 
 蓝牙（bluetooth）是一种短距离、低功耗无线通信协议。这个协议的名字很奇怪，它是怎么来的呢？
@@ -241,6 +247,17 @@ Firefox 的邮件别名服务，用来隐藏真实邮件地址，目的是注册
 ![image](https://user-images.githubusercontent.com/95151698/146170234-1d5c999e-f384-49ee-844c-f76dbb3d58dd.png)
 ![image](https://user-images.githubusercontent.com/95151698/146170264-5238d8e4-8b73-4735-aab2-40e882deca63.png)
 
+音乐产品应该是个人化产品，关注的重点是个人使用，而不应该加入社交元素。
+世界最大的两个音乐应用 Spotify 和 Apple Music 都没有社交元素，界面都很清爽，几乎没有听音乐以外的功能。
+![image](https://user-images.githubusercontent.com/95151698/146664242-c5cc517b-4c60-4062-89cf-02e201dbadf0.png)
+![image](https://user-images.githubusercontent.com/95151698/146664246-75e59dc5-bb09-4dde-b0fb-d93f4b572ed4.png)
+
+社交 App 没有什么不好，但是我非常怀疑，音乐和社交这两个对立的东西，融合得了吗？到头来，可能两头都不讨好。
+加入了社交功能的音乐应用，就像一个集市，喧闹而嘈杂，充满了你不需要的功能，而你真正想找的，只是一个角落，安静地听一会歌。
+
+很多乘客抱怨，伦敦到曼彻斯特的火车旅程耗时太长。显而易见的解决方案是，让火车行驶得更快，但这样很贵，可能要花几十亿英镑改造。
+其实还有更简单的方法，就是改变乘客的心理感受，让他觉得时间过得更快，比如提高列车上的 WIFI 网速，或者提供更多的餐饮选择。
+-- [《如何升级火车的乘客体验？》](https://amadeus.com/en/insights/blog/rail-customer-experience-ted-talks-amadeus-rail-forum)，英国奥美广告公司的副董事长 Rory Sutherland
 
 ## 参考
 
@@ -251,5 +268,14 @@ Firefox 的邮件别名服务，用来隐藏真实邮件地址，目的是注册
 5. [比尔·盖茨：历经艰难的一年，我依然满怀乐观](https://mp.weixin.qq.com/s/X8QI1zaligHxBcWB-Rrd8A)
 6. [饶毅：中国未来最大的挑战](https://mp.weixin.qq.com/s/eS2i1gY4mdNiM_0ugpkxbA)
 7. [vivo OriginOS Ocean 系统深度体验：别翻译了，这就是惊喜](https://www.ithome.com/0/591/514.htm)
+8. [音乐是反社交](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)
+9. [全息影像](https://www.bbc.com/news/business-59577341)
+10. [苹果的第一台电脑](https://www.theguardian.com/technology/2021/nov/08/apple-1-computer-auction)
+11. [如何创建你的第一个 NFT](https://medium.com/@contact_9164/how-to-create-your-first-nft-illustrated-with-shitty-stock-photos-bec48c91b4b9)
+12. [世界第一部 RISC-V 手机可能即将问世](https://tuxphones.com/sipeed-rv64-first-risc-v-rv64-phone-linux-2022-2023/)
+13. [微软 TTS（2021版）](https://techcommunity.microsoft.com/t5/azure-ai-blog/azure-text-to-speech-updates-at-build-2021/ba-p/2382981)
+14. [无法下载此图片](https://youcantdownloadthisimage.online/)
+15. [2021年最佳科学照片](https://www.nature.com/immersive/d41586-021-03521-3/index.html)
+16. [违反直觉的事实](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
 
 [返回主页](/)
