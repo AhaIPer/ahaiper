@@ -4,6 +4,22 @@
 ![image](https://user-images.githubusercontent.com/95151698/146164740-8e174e29-8712-453d-bcc3-e725ee871f5d.png)
 > 沟通与写作，是最重要的输出手段。
 
+
+## 得到年度总结
+
+![image](https://user-images.githubusercontent.com/95151698/147210600-5c8dadb4-d689-48b9-a854-0e998d9613aa.png)
+![image](https://user-images.githubusercontent.com/95151698/147210747-c697147d-e978-4a20-9c1a-0209d70630fd.png)
+
+![image](https://user-images.githubusercontent.com/95151698/147210644-038348dd-3839-4135-8b8d-e926a23c0abf.png)
+![image](https://user-images.githubusercontent.com/95151698/147210664-3986c88b-4ccd-471b-9a97-7148ca9b5f64.png)
+![image](https://user-images.githubusercontent.com/95151698/147210672-dd105ff8-d91d-4999-aacc-1dcfe9dfa2f1.png)
+![image](https://user-images.githubusercontent.com/95151698/147210680-f85f2a24-a7ef-400f-a6eb-580f0a811953.png)
+![image](https://user-images.githubusercontent.com/95151698/147210693-8ceb2ac0-122c-442d-a4a0-011f3278ba4f.png)
+![image](https://user-images.githubusercontent.com/95151698/147210706-fb2f9029-1919-4725-8245-8bf793828f1f.png)
+![image](https://user-images.githubusercontent.com/95151698/147210718-35ed854c-6aed-4da8-918d-68cd7b5a01c8.png)
+
+
+
 ## 读写能力
 
 读写能力，根据联合国相关定义，具体指能够识别、理解、解释、创造、交流、计算和使用与不同情形相关的印刷或手写材料的能力。读写能力包含了一个连续性的学习过程，这种学习使得个人可以实现自己的目标，发展自己的知识和潜力，充分参与到一个更广泛的社会当中。
@@ -45,8 +61,26 @@
 ![image](https://user-images.githubusercontent.com/95151698/146165150-b9ef3e78-d586-4a57-b312-e0b6a35971bb.png)
 > 发射，未来竞聘。
 
+### 超级个体
+
+![image](https://user-images.githubusercontent.com/95151698/147210415-8d45c945-f175-4e03-8d01-c3100a92e8d1.png)
+![image](https://user-images.githubusercontent.com/95151698/147210429-ebe5c3e6-d9d5-4776-b59a-b8e5c1705262.png)
+![image](https://user-images.githubusercontent.com/95151698/147210449-e3d0f172-1b45-4b82-a122-e71b44226af7.png)
+![image](https://user-images.githubusercontent.com/95151698/147210458-af48f984-9aad-46fc-b512-c041724b7da7.png)
+![image](https://user-images.githubusercontent.com/95151698/147210470-3ca77d10-8cc6-491e-97ca-56b2901a4513.png)
+![image](https://user-images.githubusercontent.com/95151698/147210480-c4631478-7ecd-42de-affa-933f98e0e31d.png)
+![image](https://user-images.githubusercontent.com/95151698/147210492-6cfcf057-e715-44dd-ba13-ccf977f1a7f6.png)
+![image](https://user-images.githubusercontent.com/95151698/147210504-a731d35a-5a33-4bd9-acf2-0a32ff910639.png)
+![image](https://user-images.githubusercontent.com/95151698/147210513-1f58bae2-6c7a-47e1-94b7-e613188458a1.png)
+![image](https://user-images.githubusercontent.com/95151698/147210525-b5771e0f-7b8a-43b8-86d6-2eac4c58e9fb.png)
+![image](https://user-images.githubusercontent.com/95151698/147210539-2203c3ba-1fe0-47db-8a15-62afad14a7fa.png)
+![image](https://user-images.githubusercontent.com/95151698/147210548-c07a82e7-5c5a-428e-a9d9-e0485d8ce0cc.png)
+![image](https://user-images.githubusercontent.com/95151698/147210566-603ef3f1-962f-4d2d-ad8f-a7e2f3fdfc47.png)
+![image](https://user-images.githubusercontent.com/95151698/147210776-9b89121c-f230-43b5-a518-b3b678866ef9.png)
+![image](https://user-images.githubusercontent.com/95151698/147210782-d7d71384-f68e-4b7d-ae05-baf73a8b8dd0.png)
+![image](https://user-images.githubusercontent.com/95151698/147210802-7f957664-02b6-48fe-8089-764a31fec648.png)
+
+
 ## 参考
-
-
 
 [返回主页](/)
