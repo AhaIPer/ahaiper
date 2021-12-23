@@ -120,6 +120,18 @@ WELL文化是一种涌动着激情、创意和美满的文化。WELL文化理念
 ![image](https://user-images.githubusercontent.com/95151698/146642876-2da8d215-35e9-440d-8d52-369c00e5d3c6.png)
 ![image](https://user-images.githubusercontent.com/95151698/146642878-e92f96fa-5897-4caf-ad65-555f8b4b88e8.png)
 
+![image](https://user-images.githubusercontent.com/95151698/147210125-3c765b60-1e37-41c2-a14d-6c7409fa0c02.png)
+![image](https://user-images.githubusercontent.com/95151698/147210139-3aaae552-b129-472a-97fb-854282cc5327.png)
+![image](https://user-images.githubusercontent.com/95151698/147210179-c7e7ff0a-c9bb-4811-9460-b41299eecc8d.png)
+![image](https://user-images.githubusercontent.com/95151698/147210202-3ca73665-8b8d-4a94-b17c-96eb01cd3aba.png)
+![image](https://user-images.githubusercontent.com/95151698/147210212-654c7133-5447-4971-a9b8-7f1a1dcc4ab1.png)
+![image](https://user-images.githubusercontent.com/95151698/147210265-0c7a817a-6a35-4c61-bb2d-202b431413db.png)
+![image](https://user-images.githubusercontent.com/95151698/147210269-afed9e9e-914b-4c63-8a13-886d02bbd626.png)
+![image](https://user-images.githubusercontent.com/95151698/147210291-d578979b-ebbe-4b6c-b8b4-24932f6ea516.png)
+![image](https://user-images.githubusercontent.com/95151698/147210279-8a17a78f-0b91-4341-bc59-e3fa9913aa34.png)
+![image](https://user-images.githubusercontent.com/95151698/147210276-7e43cb55-e7cc-43f2-9e4a-d79cd4f4a3e8.png)
+![image](https://user-images.githubusercontent.com/95151698/147210228-efbcca6f-2a3e-4466-8c2d-08520d457775.png)
+
 
 ## 参考
 
