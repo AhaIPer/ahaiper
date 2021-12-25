@@ -32,13 +32,15 @@
 ![image](https://user-images.githubusercontent.com/95151698/146642686-e5a88539-e2c0-43c8-af8d-ccb71ff6b660.png)
 ![image](https://user-images.githubusercontent.com/95151698/146642704-208d6c65-e220-47c0-95dc-aa82e57bf15f.png)
 ![image](https://user-images.githubusercontent.com/95151698/146642633-6f85fd01-deb5-41e4-ae1e-d720de9b8d8c.png)
-![image](https://user-images.githubusercontent.com/95151698/146642629-e9c9db1f-b240-48df-b40c-fd2e9e63e612.png)
 ![image](https://user-images.githubusercontent.com/95151698/146642895-04542028-09c6-4e50-8eb1-4b5f32912874.png)
 > 身体力行，言传身教，习惯成自然。
 
 ![image](https://user-images.githubusercontent.com/95151698/147207594-a29754e5-e81c-43f8-842a-f7311808c68b.png)
 ![image](https://user-images.githubusercontent.com/95151698/147207639-da346dc4-ed4d-481a-990c-f1dff2cf2006.png)
 > 睡前打卡
+
+![image](https://user-images.githubusercontent.com/95151698/147385541-b300a6e9-23a9-4cb2-8b1e-b200e937dc7b.png)
+> 自编歌曲及舞蹈
 
 ![image](https://user-images.githubusercontent.com/95151698/146660230-971571f7-8630-4bd4-8285-c2fd0536c6e0.png)
 > 天马星空
