@@ -149,5 +149,6 @@
 3. [Repobeats](https://repobeats.axiom.co/configs)
 4. [giscus](https://giscus.app/zh-CN)
 5. [HTML/URL To Markdown](https://devtool.tech/html-md)
+6. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
 
 ![Alt](https://repobeats.axiom.co/api/embed/c7c2cd5f92aeed889d24ba9f50aaebc6cf918a3c.svg "Repobeats analytics image")
