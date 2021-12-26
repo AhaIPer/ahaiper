@@ -1,6 +1,10 @@
 # 再回归及启航
 ——Think Big. Do more. Enjoy.
 
+一、健康、家人及事业
+二、价值、擅长及兴趣
+三、执行、沟通及协作
+
 ![](/img/sunsea.jpeg)
 > IPCreator：回归、打造及享受真我，创造更大价值及意义，艺术美感。
 
@@ -156,5 +160,6 @@
 4. [giscus](https://giscus.app/zh-CN)
 5. [HTML/URL To Markdown](https://devtool.tech/html-md)
 6. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
+7. [lantern](https://github.com/getlantern/lantern)
 
 ![Alt](https://repobeats.axiom.co/api/embed/c7c2cd5f92aeed889d24ba9f50aaebc6cf918a3c.svg "Repobeats analytics image")
