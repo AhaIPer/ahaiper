@@ -22,6 +22,14 @@
 ![image](https://user-images.githubusercontent.com/95151698/146619924-d4b85936-f469-4db9-8de4-c090025187ee.png)
 ![image](https://user-images.githubusercontent.com/95151698/146619930-9582c6a6-cba0-46e5-b325-b77ce889f02d.png)
 
+### 1979
+
+![image](https://user-images.githubusercontent.com/95151698/147403629-00074bc1-6667-47d2-9962-04213e887212.png)
+![image](https://user-images.githubusercontent.com/95151698/147403623-5f62bd39-82b8-477c-bcdc-e0e3532d8de3.png)
+![image](https://user-images.githubusercontent.com/95151698/147403619-48346738-0c05-41d7-83aa-0e39ca2ff2f3.png)
+![image](https://user-images.githubusercontent.com/95151698/147403614-051d28ed-9550-4e09-b5a9-a166866cf4fe.png)
+
+
 ### 世界之窗、欢乐谷
 
 ![image](https://user-images.githubusercontent.com/95151698/147385567-5c6646d6-217b-42fb-921b-04aa5b8f6494.png)
