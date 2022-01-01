@@ -29,6 +29,9 @@
 
 >这意味着，你预估一件事的难度是1，实际难度可能是3；你预估需要一个月完成的项目，实际需要的时间可能是三个月。
 
+重要的书都应该连着读两遍，因为第二遍读的时候，你已经知道结局了，这样才能真正理解开头。另一个原因是第二遍阅读时，你有不一样的心情，可能会从另一种角度看待问题。
+-- [《叔本华论阅读和书籍》](https://fs.blog/schopenhauer-on-reading/)
+
 ## [为什么双引擎飞机更容易发生事故](https://www.franklinfaraday.com/redundancy-is-life-except-when-its-death/)
 最早的飞机都是单引擎。
 ![image](https://user-images.githubusercontent.com/95151698/147395648-b395e90d-20e1-4af0-95a0-e8db7e2ddf71.png)
@@ -632,5 +635,6 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 7. [见识和见世面](https://www.jianshu.com/p/463e8d1cb9a5)
 8. [成年人](https://www.jianshu.com/p/3432ad003b4f)
 9. [《纽约时报》2021年度十大好书](https://cn.nytimes.com/culture/20211201/best-books-2021/)
+10. [字节跳动不需要总部大楼](https://mp.weixin.qq.com/s/nPChaKQcotEzttnSysom5w)
 
 [返回主页](/)
