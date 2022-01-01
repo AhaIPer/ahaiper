@@ -1,5 +1,27 @@
 # 再回归及启航
+![image](https://user-images.githubusercontent.com/95151698/147847021-c15fd511-1750-4bc3-a5bd-dcfa4b56256a.png)
+![image](https://user-images.githubusercontent.com/95151698/147847026-42933e7a-4d78-4338-b17b-07ce0a5c56ff.png)
+![image](https://user-images.githubusercontent.com/95151698/147847037-c780f614-e478-4d0f-9d01-3b27bcea1dec.png)
+![image](https://user-images.githubusercontent.com/95151698/147847049-3ab9382c-4f82-408e-a22d-2147f9894f68.png)
+![image](https://user-images.githubusercontent.com/95151698/147847055-a2b46a06-98b9-4416-ba80-2c4a5a51b94f.png)
+![image](https://user-images.githubusercontent.com/95151698/147847065-599516d1-7337-4775-8158-9461e1a56286.png)
+![image](https://user-images.githubusercontent.com/95151698/147847071-63c36ef2-ee86-424d-b874-43826d7b8adb.png)
+![image](https://user-images.githubusercontent.com/95151698/147847080-b8746dc5-573f-4d76-b87e-07b580828bcf.png)
 ——Think Big. Do more. Enjoy.
+
+![image](https://user-images.githubusercontent.com/95151698/147846880-45d3e77d-0f24-4c12-a4d8-42a453a9633d.png)
+![image](https://user-images.githubusercontent.com/95151698/147846895-5629fe6d-d714-4497-90a3-f1408fb66698.png)
+![image](https://user-images.githubusercontent.com/95151698/147846906-5eb69487-c888-47b2-aaee-4bea7868c93a.png)
+![image](https://user-images.githubusercontent.com/95151698/147846921-8368a292-1313-4f10-a529-2b3c90d57f9b.png)
+![image](https://user-images.githubusercontent.com/95151698/147846947-01e70e7a-22f1-4864-ab43-8fe34b10fe71.png)
+![image](https://user-images.githubusercontent.com/95151698/147846979-07396529-98dc-4d10-b5d9-152891a544d5.png)
+![image](https://user-images.githubusercontent.com/95151698/147846984-caf2abe6-a9c0-43a2-a002-15aec27e5b1f.png)
+![image](https://user-images.githubusercontent.com/95151698/147846987-0c75ab39-5efe-44c9-8ef7-2145d8f22d58.png)
+![image](https://user-images.githubusercontent.com/95151698/147846989-ff48a031-79e6-49ed-bbac-1e51920e0e60.png)
+![image](https://user-images.githubusercontent.com/95151698/147846993-ce149c3c-b8c7-4b15-b1c7-18d3a7310341.png)
+![image](https://user-images.githubusercontent.com/95151698/147846997-d4d9cd3c-6f84-4d8d-a984-711623d62fa5.png)
+![image](https://user-images.githubusercontent.com/95151698/147847044-6f580716-e700-4257-8948-babc065c619a.png)
+
 
 
 
