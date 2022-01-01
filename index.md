@@ -55,6 +55,9 @@
 ![6d3ececf2ce041330c67274395d0dc3](https://user-images.githubusercontent.com/95151698/147406239-353c54e2-fcc7-4a03-9fd1-2664d7ee48cd.png)
 > 立足当下，放眼全球。
 
+![image](https://user-images.githubusercontent.com/95151698/147845535-b11a540d-f6b8-4fd9-b24c-31d081f6da5d.png)
+> 元旦快乐
+
 ```
 慢就是快
 快就是慢
