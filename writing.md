@@ -48,6 +48,18 @@
 
 一切创造都在现实限制之下，或多或少。区别在于有些创作者可以突破限制，激发出更丰富的想象力。而有些创作者则被限制束缚，扼杀了自己的想象力。而更为常见的是创作者被给予了近乎无限的资源之后，成功地壮烈失败了。因此，限制条件和想象力之间最好不要建立一个简单方程，我认为它甚至都不是直线方程。
 
+![writing001](https://user-images.githubusercontent.com/95151698/148537999-52092f31-8b01-458b-a7b2-1f397a0d1f27.jpg)
+![writing002](https://user-images.githubusercontent.com/95151698/148538008-f753281e-c385-48c5-b18a-fffb162cc85a.jpg)
+![writing003](https://user-images.githubusercontent.com/95151698/148538012-fc01cf06-c34b-4a27-b57f-b4d02a2fdcfd.jpg)
+![writing004](https://user-images.githubusercontent.com/95151698/148538014-2a1fa5a0-557f-49df-a3fe-85102773bcc5.jpg)
+![writing005](https://user-images.githubusercontent.com/95151698/148538017-087b5635-ab0c-4ac9-8561-950c773f5d50.jpg)
+![writing006](https://user-images.githubusercontent.com/95151698/148538021-c73757cc-d47c-4983-a483-113796fe112c.jpg)
+![writing007](https://user-images.githubusercontent.com/95151698/148538024-d39140a5-2caa-4f5a-96ae-c77df75c4016.jpg)
+![writing008](https://user-images.githubusercontent.com/95151698/148538029-358d0ddc-2cb6-47c6-a10a-9ac686f4e5dc.jpg)
+![writing009](https://user-images.githubusercontent.com/95151698/148538032-99233abd-c79d-409a-bcd9-238bec534fd9.jpg)
+![writing010](https://user-images.githubusercontent.com/95151698/148538036-bcfdfccc-7a80-4bdf-a0b1-9a8ab69df1b3.jpg)
+![writing011](https://user-images.githubusercontent.com/95151698/148538041-a4fead7a-7726-4454-addc-e60e80e96faa.jpg)
+
 ### 周报及年终总结
 
 ![image](https://user-images.githubusercontent.com/95151698/146165011-9bf47713-3596-41a7-97be-cf31ce64e928.png)
