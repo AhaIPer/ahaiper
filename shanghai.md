@@ -152,6 +152,34 @@
 ![image](https://user-images.githubusercontent.com/95151698/146110120-d1ae6491-cf09-4b1a-8d9f-93c4b19d66ef.png)
 ![image](https://user-images.githubusercontent.com/95151698/146110126-a4edf2d3-26c8-4e81-8b90-67386853e423.png)
 
+## Peet's 咖啡
+
+![image](https://user-images.githubusercontent.com/95151698/148666279-8ccee551-31b1-4711-b268-a1deb6987639.png)
+
+皮爷咖啡（英语：Peet's Coffee），又译“皮式咖啡”，是一家美国咖啡烘焙、零售连锁店，总部位于美国加利福尼亚州旧金山湾区爱莫利维尔。
+
+阿尔弗雷德·皮特将欧洲的咖啡烘焙技术引入美国，被誉为美国精品咖啡（gourmet coffee）的鼻祖。
+星巴克的三位创始人均师从阿尔弗雷德·皮特，并于1971年于美国西雅图开设了第一家星巴克咖啡店。开设的第一年间，星巴克的咖啡豆依然是由皮爷咖啡提供。
+20世纪90年代，两位曾经在皮爷咖啡工作的英国人回到英国，建立了“联合咖啡烘培店（Union Coffee Roasters）”。
+
+![image](https://user-images.githubusercontent.com/95151698/148666284-a3902665-346b-40bc-b020-c7ff431d036a.png)
+![image](https://user-images.githubusercontent.com/95151698/148666285-c86b9028-2240-4647-8e01-f4e54672b66a.png)
+![image](https://user-images.githubusercontent.com/95151698/148666287-5a6415f7-ec6e-4a72-b1b5-2632104b1999.png)
+![image](https://user-images.githubusercontent.com/95151698/148666289-8916d3bf-4ce0-40ae-acbf-1c42675b73c7.png)
+![image](https://user-images.githubusercontent.com/95151698/148666290-26cb6521-c6b5-4402-a804-d81e358c979b.png)
+![image](https://user-images.githubusercontent.com/95151698/148666291-9fc758de-8244-4163-9125-ff29d66e9c12.png)
+![image](https://user-images.githubusercontent.com/95151698/148666292-3872210d-35f5-4281-81a7-b0342f2a56cd.png)
+![image](https://user-images.githubusercontent.com/95151698/148666293-aeb37585-57f9-4909-907d-616e619d7517.png)
+![image](https://user-images.githubusercontent.com/95151698/148666297-a0700383-1207-45af-939c-e7d284c66f11.png)
+![image](https://user-images.githubusercontent.com/95151698/148666299-bec57af6-6793-402a-b30a-ad01a2081680.png)
+![image](https://user-images.githubusercontent.com/95151698/148666301-173ca3db-2d8e-4b4a-afa5-36e90a982b40.png)
+![image](https://user-images.githubusercontent.com/95151698/148666303-6b61d378-5f82-4b48-8fb5-826bcbc01cf1.png)
+![image](https://user-images.githubusercontent.com/95151698/148666304-c2638765-60fa-4195-b344-e9233cfd839a.png)
+![image](https://user-images.githubusercontent.com/95151698/148666305-b396a0fa-5b30-4ee0-bbbf-5769796bd4bc.png)
+![image](https://user-images.githubusercontent.com/95151698/148666306-0bcfda8a-d0e0-4655-a8b1-3f2e515307c0.png)
+![image](https://user-images.githubusercontent.com/95151698/148666308-d3278fe5-e7ea-4691-ab4c-67eb41cbd210.png)
+![image](https://user-images.githubusercontent.com/95151698/148666310-672a116e-c887-49dc-aa70-c57fa00c49a9.png)
+![image](https://user-images.githubusercontent.com/95151698/148666311-77498089-39ef-489d-b088-25d3eef5b2e6.png)
 
 ## 返深
 
