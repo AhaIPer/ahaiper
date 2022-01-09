@@ -349,6 +349,31 @@
 
 建议访问官网提供的 [360 度版本](https://www.eso.org/public/images/potw2137b/)，感受一下，头顶是星空，脚底也是星空。
 
+## 2021
+
+![image](https://user-images.githubusercontent.com/95151698/148682001-2a8bbaed-ba65-47a0-8117-564066eb5d32.png)
+[美国民主走向衰落的那一天](https://cn.nytimes.com/opinion/20220106/jan-6-global-democracy/)
+
+1月6日，一伙暴徒在前总统唐纳德·特朗普启发下袭击了国会，这是美国政治的一个不祥先例。自内战以来，美国从未在权力和平交接上失败，也没有候选人曾在选举结果自由且公平的广泛证据面前蓄意提出异议。
+该事件继续在美国政治中引起反响——但其影响不仅限于国内。它还在国际上产生了巨大影响，标志着美国全球实力和影响力的显著衰落。
+
+各国的抗疫政策都是在用各自的方式寻找一个平衡：政府保住他们眼中最有价值的东西、也付出他们认为能够承担的代价，民众往往只能自求多福。
+
+![image](https://user-images.githubusercontent.com/95151698/148682052-6d6fddd8-5af5-4c79-a6f0-365592fd292d.png)
+[“女版乔布斯”的覆灭：硅谷创业神话时代终结](https://cn.nytimes.com/technology/20220105/elizabeth-holmes-theranos/)
+
+### [2021年最佳图书封面](https://cn.nytimes.com/slideshow/20211223/2021-best-book-covers/#1) 
+
+![image](https://user-images.githubusercontent.com/95151698/148682448-f246c87d-05e2-442a-a6fa-08d47382fc08.png)
+
+
+### [图片中的2021年（上）](https://cn.nytimes.com/slideshow/20211216/c16yip2021-1-ss/#1)
+
+![image](https://user-images.githubusercontent.com/95151698/148682472-761c41d2-7a46-490f-9c5f-24ef2360bcd9.png)
+
+
+### [图片中的2021年（下）](https://cn.nytimes.com/slideshow/20211217/c16yip2021-2-ss/#1)
+
 ## 参考
 
 1. [全市首批21家医疗机构可24小时核酸检测](https://www.shanghai.gov.cn/nw4411/20211028/1c3acb83e8dc4ae5acedf1cfbbef1bd2.html)
