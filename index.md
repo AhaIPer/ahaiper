@@ -1,4 +1,5 @@
 # 再回归及启航
+![image](https://user-images.githubusercontent.com/95151698/148666194-b9783602-46b8-4549-9410-70adde636abc.png)
 ——Think Big. Do more. Enjoy.
 
 一、健康、家人及事业
