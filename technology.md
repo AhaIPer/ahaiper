@@ -1,7 +1,8 @@
 # 科技
 [返回主页](/)
 
-![77cc179e42984a82650ee1439afd2e1](https://user-images.githubusercontent.com/95151698/147407754-d9f92007-e4a4-4854-ae8c-4c139144905b.png)
+![](https://user-images.githubusercontent.com/95151698/147407754-d9f92007-e4a4-4854-ae8c-4c139144905b.png)
+![image](https://user-images.githubusercontent.com/95151698/148667311-cab5d766-df18-4ce0-8693-fefa5ca334fb.png)
 > 追随及引领科技潮流。
 
 微世纪（microcentury）指的是一个世纪的百万分之一，相当于52分35.7秒。
@@ -19,6 +20,169 @@
 
 21 世纪的物理学家，依然无法回答一些最基本的重大问题：时空的来源是什么？粒子为什么会自转？为什么强力那么强，而弱力那么弱？
 -- [《物理模型无法解释的五个谜团》](https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain)
+
+## [三星 Fold3 5G]()
+
+![image](https://user-images.githubusercontent.com/95151698/148668070-73097ec9-a1ae-4b14-9799-398ae089f20e.png)
+
+倘若一款售价上万元的手机，屏幕却一戳就碎、一摔就裂，还容易因为进尘导致转轴损坏，如此玩票性质的性价比，注定会让折叠屏曲高和寡。
+但在三星 Z Fold3 上，我终于看到了折叠屏手机的可靠性和耐用性，无论是「装甲铝」，还是 IPX8 的防水等级，三星这次是在不遗余力地为折叠屏塑造一个可靠形象。
+
+还记得多年前，我第一次看到 Sony Tablet P 时的惊讶和好奇。从智能手机到平板电脑，从 iPhone 到 iPad，并非完全如乔布斯所说是「全新的发明」。新材料（比如 UTG 超薄柔性玻璃）和新工艺（比如 UDC 屏下摄像头）的层出不穷，让已有的品类不断产生从造型到交互的豹变。因此，折叠屏手机或者折叠式设备也并非全然的新产物。
+
+时至今日，到 Fold3 的推出，折叠屏似乎已经很靠近一个临界点，即杰弗里·摩尔所说的，从创新品到大众消费品的临界点。这几年始终小修小补的 iOS 和 Android 似乎也到了这样的紧要关头：物理形态的变化亟待软件层面的新突破，来实现一种新的产品价值。
+
+国内国外，可以寻找到这个临界点的设备制造商，必将能够掌握掌上消费电子市场的一下个十年。到时回头，Fold3 正是起点之一。
+
+![image](https://user-images.githubusercontent.com/95151698/148668631-034c2fd2-591b-43cf-8ab9-6e5ff04d8b6a.png)
+![image](https://user-images.githubusercontent.com/95151698/148668634-e0d67ac0-8be2-4a11-a141-0411a1d40550.png)
+![image](https://user-images.githubusercontent.com/95151698/148668641-781b9b29-60fe-46f8-8feb-55088e6c712d.png)
+![image](https://user-images.githubusercontent.com/95151698/148668645-b1448332-f85a-427f-8ba0-ab66d5903832.png)
+Galaxy Z Fold3電池容量4400 mAh，比Z Fold2少了100 mAh，而且其實由兩塊獨立的電池芯組成－一塊容量2280 mAh，另一塊2120 mAh。目前折疊螢幕手機都採用這種分離式電池，就連Z Flip3也是。
+
+[本篇評測Galaxy Fold3優點整理](https://sibhaca.pixnet.net/blog/post/225625307-galaxy-z-fold3-5g-%E9%96%8B%E7%AE%B1%E8%A9%95%E6%B8%AC)
+
+耐用度與材質改良，更精細的設計與更小的鉸鏈間隙
+IPX8防水認證（沒有防塵保護）
+更好的主螢幕與封面螢幕，亮度也都更高。尤其螢幕螢幕也支援120Hz，這點很棒
+支援S Pen對於Z Fold3的附加價值增加不少
+出色的立體聲喇叭設置
+支援多工的豐富軟體功能
+完整而全方位的相機系統，可使用封面螢幕當觀景窗來使用主鏡頭自拍
+屏幕下鏡頭提供比挖孔式鏡頭更沉浸的多媒體使用體驗
+本篇評測Galaxy Fold3缺點整理
+鉸鏈間隙還是在。新的螢幕雖然有更耐刮的保護，但仍然是軟質，讓人懷疑其耐用度
+電池續航力讓人失望。以25W的標準來看，充電速度表現不佳，而且沒有內附充電器
+Snapdragon 888晶片有受到溫控調頻限制並且效能表現不佳，而且相當耗電。
+整體相機拍攝品質無法與三星最好等級的鏡頭比，屏幕下鏡頭表現尤其讓人失望
+
+
+### [折叠屏当下最优选](https://www.163.com/dy/article/GM6V17NP05118O8G.html)
+
+十年过去了，自初代 Galaxy Note 开启的「大屏手机时代」已经步至鼎盛，由 Galaxy Fold 开启的「折叠屏手机」新品类成为了业内的新焦点。
+三星首款防水折叠屏手机：外观细节小变化，坚固耐用是重点。
+陨石黑、幽谷绿、雪川银（Phantom Silver）
+玻璃部分采用了 AG 磨砂工艺，视觉上颇具质感，手感上也免除了指纹收集器的问题，触感细腻舒适。
+三星 Z Fold3 无论是外屏还是内屏，都对齐了 Dynamic AMOLED 2X 屏幕材质，而且均为「满血」的 120Hz 屏幕自适应刷新率。这使得内外屏都有了同样顶级和流畅的屏幕感官体验。
+三星再度采用了 UTG (Ultra Thin Glass) 超薄柔性玻璃（由德国 Schott 供应）来作为 Z Fold3 的内屏表面材料，屏幕的耐冲击性和耐磨度都得到了一定保证。
+至于外屏屏幕和后盖部分的玻璃，也理所当然地采用了康宁大猩猩 Victus 玻璃，这是号称「迄今为止最坚固的康宁大猩猩玻璃」，相较于常规的硅铝酸盐玻璃，其抗刮能力也提升了 4 倍。
+
+### 综合
+
+![image](https://user-images.githubusercontent.com/95151698/148667335-0a8e369b-c057-45d5-8470-52352f59e52b.png)
+三星 Galaxy Z Fold 3 5G 由 Armor 铝制成，三星称其比 Fold 2 中使用的材料耐用 10%。材料的转换也意味着它现在比以前轻了约 10 克。
+除了铝制底盘，三星还用康宁大猩猩玻璃 Victus 覆盖了正面和背面，而屏幕更耐刮擦，据说比以前耐用 80%。
+三星 Galaxy Z Fold 3 5G 拥有 6.2 英寸的保护盖显示屏和 7.6 英寸的平板手机屏幕。Dynamic AMOLED 2X 显示屏不仅比以前更亮，而且还可以延长电池寿命。
+
+![image](https://user-images.githubusercontent.com/95151698/148667847-e8661f42-072a-414c-87e6-a389bb12cd29.png)
+Z Fold3 的屏下隱藏效果可說是強差人意。雖然屏下鏡頭可以完全隱藏，但顆粒感極重，原因是在屏下部分的那 172 顆發光像素比一般的部分大，雖然會帶來顆粒感，但是能有效提高透光率，以及防止發光像素壽命降低。
+
+![image](https://user-images.githubusercontent.com/95151698/148667765-bfbcbfda-903e-4149-a3c6-6b2c65d76d9b.png)
+![image](https://user-images.githubusercontent.com/95151698/148667772-5b7dd1a2-f668-424c-93a8-fdc35e23e573.png)
+![image](https://user-images.githubusercontent.com/95151698/148667775-2664d1b1-8f57-42fd-aefd-8a8a62233e8a.png)
+![image](https://user-images.githubusercontent.com/95151698/148667780-b3fca3a4-9f8c-4117-8a25-91bcc2648070.png)
+![image](https://user-images.githubusercontent.com/95151698/148667788-06207a1f-2c47-4016-bd41-4ac8555339f0.png)
+![image](https://user-images.githubusercontent.com/95151698/148667805-74f7d4a5-8b3f-46a9-a1f1-17b6035f6bd3.png)
+
+
+![image](https://user-images.githubusercontent.com/95151698/148667572-6c46b239-4217-4207-bcda-d5ac6fd890a4.png)
+从显微镜下看三星的这块屏幕，在屏下镜头部分的像素排列明显更加稀疏，同时三星也采用了一种我们之前从未见过的像素排列方式，通过单个大像素组合成为一个球形像素，并拉开二极管群之间的距离，保证光线可以正常从屏幕层穿透到CMOS上去。降低PPI带来的问题和之前中兴在Axon20时遇到的一样，三星的这个屏下镜头可以很清楚的靠肉眼辨识出来，尤其是在白色的背景下，像素被全部点亮，这种情况会更加的明显。
+
+Galaxy Z Fold3上使用的是骁龙888处理器，没有用到最新的888+，和去年Fold2使用最新的865+有点不一样。
+内存12+512GB
+支持最高 25W 的三星自家超快速充電、無線快速充電和反向無線充電。
+廣角鏡頭：12MP、SONY IMX555、f/1.8 光圈、1/1.76″ 感光呎吋、1.8µm 像素大小、OIS
+長焦鏡頭：12MP、Hynix HI1337、f/2.4 光圈、1/3.6″ 感光呎吋、1µm 像素大小、OIS
+超廣角鏡頭：12MP、SONY IMX258、f/2.2 光圈、1/3.06″ 感光呎吋、1.12µm 像素大小
+4400毫安时的电池，比去年的Fold2还少了100毫安时，看来这一次内部的改进确实积压了更多电池的空间。实际的使用方面，外屏使用12个小时，内屏5-6个小时，基本上内屏的续航时间是外屏的一半。
+
+![image](https://user-images.githubusercontent.com/95151698/148667910-4bc46af5-247c-4b47-a888-9c5c98ade7a7.png)
+![image](https://user-images.githubusercontent.com/95151698/148667913-3b9de91e-a2cb-45ad-8622-6820ac25648f.png)
+
+DXOMARK 对于三星 Galaxy Z Fold3 5G 的评语为“大跃进”，拍照、变焦和视频得分为 134、66、103 分。
+对于视频，Z Fold3 5G 可实现每秒 60 帧的 4K 录像。
+三星 Galaxy Z Fold3 5G 音频评测得分 72 分，屏幕显示得分 89 分，相比目前最强的黑鲨 4 Pro 和苹果 iPhone 13 Pro Max 有一些差距。
+
+三年，发布了五款折叠屏产品，三星对折叠屏的探索依旧不能停止，对于折叠屏这样一个全新的事物，硬件的不断进化带动软件更完美的适配，这才有可能让折叠屏真正意义上走到前台来。
+
+三星Galaxy Z Fold3 5G通过“堵”和“疏”两种方式支持IPX8防水，也成为首款支持防水的折叠屏手机。
+
+所谓“堵”就是防止液体进入机身内部，三星在电源按键、扬声器、SIM卡槽等开孔位置都使用了橡胶垫圈以达到防水的目的。像是铰链内部的柔性电路板也通过完全封闭的方式避免与水接触。而铰链开合区域，三星通过使用疏水涂层将因为意外进入机身内部的液体快速导出到机身外，并且铰链采用防锈材质，避免遇水生锈，通过上述方式，最终实现了“IPX8防水”的防水能力。
+
+
+### [三星Z Fold2 5G评测：没有人比我更懂折叠屏手机](https://mobile.pconline.com.cn/1376/13767984.html)
+
+![image](https://user-images.githubusercontent.com/95151698/148668119-e39c8a37-87df-4a82-9625-1f36c0df9228.png)
+三星Galaxy Z Fold2 5G有迷雾金和松烟墨两个配色，其中迷雾金为AG磨砂玻璃，而松烟墨为亮面玻璃。
+
+受限屏幕结构和机身空间，三星Galaxy Z Fold2 5G并没有把Galaxy S20 Ultra和Note20 Ultra那颗HM1传感器塞进去，而是选择了1200万像素IMX555+1200万像素超广角+1200万像素长焦的三摄组合。
+此外，三星Galaxy Z Fold2 5G继续采用对称式双扬声器设计，支持杜比全景声，而且外屏上的听筒同样集成了扬声器。
+
+![](https://img0.pconline.com.cn/pconline/2010/15/13767984_gou2_thumb.gif)
+「自动构图」可以根据镜头中的人员数量调整远景或近景，仅有一人入镜时，摄像头可追踪该人动作，保证居中显示。我们可以清楚地看到开启该功能后，系统会调用超广角镜头（该功能前置镜头同样可用）。
+
+「自动构图」的追踪距离大约为2.5m-3m，可以追踪正常步幅的人物，超出这个距离或者移动太快的话就不太行了。
+
+因此，该功能的适用人群是主播、Vlogger等，甚至是老师用来上网课应该也没啥问题。这类用户与镜头的距离比较近，而且不会大范围移动，只要把Galaxy Z  Fold2 5G放在桌上，自己就可以开始尽情表演了。
+
+![image](https://user-images.githubusercontent.com/95151698/148668208-1ce452e2-4cec-45c9-b8bd-67f377eaafdb.png)
+
+这台自带三脚架的三星Galaxy Z Fold2 5G，同样也是延时摄影利器。
+
+![image](https://user-images.githubusercontent.com/95151698/148668217-8b003abf-df89-48c9-9fd0-878d346e3be2.png)
+
+「双屏预览」是Galaxy Z Flip系列上「外屏预览」的进化版，可以在拍照的时候充当预览窗口，被拍摄者可以通过外屏看到实时的拍照预览，调整自己或者提醒拍摄者该如何调整。
+
+至于前文提到的我认为多任务操作所缺少的东西，没错，就是这根S Pen。假如加上一根S Pen，三星Galaxy Z Fold2 5G在多任务、生产力方面将直接起飞。
+
+[总结：折叠屏的新方向](https://www.leikeji.com/article/33448)
+
+
+优点：1、工艺顶级，严丝合缝，颇具工艺品质感；
+
+           2、内屏显示效果好，120Hz自适应刷新率的流畅体验十分畅快；
+
+           3、交互体验好，多款应用适配性好；
+
+           4、硬件顶级，游戏体验属于一流水准
+
+
+
+缺点：1、手感依旧压手，握持感一般；
+
+           2、充电速度偏慢；
+
+ 
+
+三星Galaxy Z Fold2 5G作为折叠屏机型中的代表作，丰富多彩的使用方式，让折叠屏不再只是为了炫技而生，这些创造性的使用方法让小雷见识到了折叠屏背后的巨大潜力。从这点来说，三星Galaxy Z Fold2 5G扩展了折叠屏机型的体验差异化，这种差异化的特征，是直板机型将屏幕尺寸扩展后也无法达到的。折叠屏技术本身就代表了当下最高的技术实力，我们都能切实感到折叠屏技术的高大上，但我们之前都不知道折叠屏手机能怎么用，有什么用。
+
+
+
+虽然目前的折叠屏手机对于普通消费者来说价格还是过于高昂，但这有可能会成为未来手机的发展方向之一，届时折叠屏也很有可能会普及到每一个消费者手上。
+
+### [Galaxy Fold](https://www.ifanr.com/1199883)
+
+![image](https://user-images.githubusercontent.com/95151698/148667441-2b1e4ea8-8f31-4537-8f5e-abaf9cedae5f.png)
+![image](https://user-images.githubusercontent.com/95151698/148667448-035afc02-f410-40e8-bbdf-bc4709555e48.png)
+![image](https://user-images.githubusercontent.com/95151698/148667467-5d358527-1443-467d-acc3-d07a09365deb.png)
+
+
+三星 Galaxy Fold 的出现，对于已经增长日趋停滞的智能手机行业来说无疑是一个新的方向。
+
+曾经，很多人认为正面无刘海无缺口的全面屏，将会为手机的硬件战争画上休止符。为了实现正面的一整块屏幕，各家厂商都使出了浑身解数拿出了看家本领，甚至不惜复活了滑盖和翻盖结构，随之而来的形态是正反双面和升降摄像头。
+
+但折叠屏的出现则向另一个方向迈进了一大步，让我们意识到，一块可翻折的屏幕，能够让「人们对更大显示屏的渴望」和「大屏导致手机自身体积过大」这两个看似不可调和的矛盾握手言和，现在 Galaxy Fold 的出现正是这一理念的实体化，也是三星想要对外展现自己核心技术力的产物。
+
+更重要的是，折叠屏技术的正式商用，势必会逐渐渗透到整个消费电子产品领域。基本上只要是带屏幕的设备，都可以在可折叠屏幕的基础上，抛开原有的体积和结构的桎梏，探索新的形态。
+
+当然，回归到产品自身上，三星 Galaxy Fold 固然有亮点，比如说它的铰链设计，以及内外屏两种形态的切换；但同时也存在着像应用适配不足、厚度过厚等一些显而易见的缺点。在这样优缺点都十分明显的情况下，想要说服消费者花上万元入手一款新设备，并不是一件易事。
+
+何况，贵也不是唯一的问题，折叠屏在使用中的高频次开合是否会缩短其使用寿命，屏幕本身是否足够耐刮花划伤，我们在短时间的体验中尚未可知。
+
+最后，我们仍然要为「想购买一款折叠屏手机」这一动机找到足够充分的理由，除了「看起来很酷」的未来感之外，我们需要一些实打实的能够形成碾压级的优势。这不仅关系着某款折叠屏手机能卖得怎么样，更关系着折叠屏手机能否成为除了直板手机、平板电脑乃至是笔记本电脑之外的一个新品类。
+
+而要回答这个问题，三星仅靠现在的 Galaxy Fold 还不够，显然还要沉下来持续迭代数年的耐心。
+
 
 ## [为什么 Web3 与区块链有关](https://www.ruanyifeng.com/blog/2021/12/web3.html)
 
@@ -657,5 +821,8 @@ C 和 C++ 这两种语言不保证内存安全，后果就是所有软件安全�
 22. [拆解中国宏光MINI EV看低价格实现](https://mp.weixin.qq.com/s/OSSXtVc5KcxQjSYS908dtQ)
 23. [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html)
 24. [Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)
+25. [为什么DXOMARK测试独一无二?](https://www.dxomark.cn/about-us/)
+26. [Google 正改進 Windows 和 Android 的整合功能](https://chinese.engadget.com/google-ces-2022-news-fast-pair-nearby-share-windows-chrome-cast-194554964.html)
+27. [少数派](https://sspai.com/)
 
 [返回主页](/)
