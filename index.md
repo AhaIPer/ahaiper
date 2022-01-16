@@ -188,6 +188,7 @@
 ## [写作](/writing.md)
 ## [认知](/cognition.md)
 ## [健康](/health.md)
+## [投资](/investment.md)
 
 ## 参考
 
