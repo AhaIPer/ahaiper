@@ -4,11 +4,12 @@
 ![](/img/cognitionlogo.jpeg)
 > 成年人
 
+![image](https://user-images.githubusercontent.com/95151698/149644248-41eef36e-675b-4466-a7b0-e587f72c55d9.png)
+![image](https://user-images.githubusercontent.com/95151698/149644280-8c723945-ca4c-478b-9f3e-ee2dd48a96b0.png)
+
+
 年轻时，你没有背负太大的责任，想做什么就应该去做。年龄大了，你背负的责任也多了，这带来了顾虑，即使是很好的机会，你也不得不反复权衡和计划。
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=29306325)
-
-我投失过至少9000次投篮，输了近300场比赛，26次没有命中最后的关键球。在生活中，我一次又一次地失败，这就是我成功的原因。
--- [迈克尔·乔丹](https://news.ycombinator.com/item?id=29283402)
 
 过去几十年，中国农民从农村迁移到城市的工厂。我一直不明白，城市工厂的条件并不好，有些相当差，为什么有这么多农民去？
 后来，我看了一部美国纪录片，想明白了。很多美国年轻人搬到洛杉矶去当演员，其中99%年轻人的生活会变得更糟，但是有机会逃离他们原来的处境，对很多人来说依然是一个强大的吸引力。
@@ -27,6 +28,10 @@
 
 你永远不会通过与现实做斗争，而改变事物。想要改变事物，需要建立一个使现有模型过时的新模型。
 -- [富勒](https://news.ycombinator.com/item?id=29441945)，美国建筑师
+
+![image](https://user-images.githubusercontent.com/95151698/149644361-d9c784d5-16f0-4f62-ac47-289bc006aab3.png)
+![image](https://user-images.githubusercontent.com/95151698/149644367-0a3ff064-11cf-42a9-b7a8-62aad1118121.png)
+
 
 ## [小说家的时代，永远地过去了](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)
 
