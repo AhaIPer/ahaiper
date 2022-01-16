@@ -7,6 +7,9 @@
 心理学家研究发现，人的记忆具有位置效应。当按顺序回忆一个序列时，我们对第一项和最后一项的记忆最好，对中间项目的记忆最差。
 -- [维基百科](https://en.wikipedia.org/wiki/Serial-position_effect)
 
+阳光里面的紫外线能够杀死病菌，这可以解释很多现象。（1）热带地区的流感相对较少，（2）室外白天要比室内更少病菌，（3）冬季是流感多发期。
+-- [《疾病的季节性》](https://astralcodexten.substack.com/p/diseasonality)
+
 ## [洪昭光](https://baike.baidu.com/item/%E6%B4%AA%E6%98%AD%E5%85%89/6906786)
 
 健康四大基石是什么
