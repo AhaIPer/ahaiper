@@ -1,6 +1,9 @@
 # 科技
 [返回主页](/)
 
+![image](https://user-images.githubusercontent.com/95151698/149644311-e12befa8-0ac1-4aa4-ad61-428557512950.png)
+![image](https://user-images.githubusercontent.com/95151698/149644313-81fee0b0-3b69-476f-a806-bb8595b7854d.png)
+
 ![](https://user-images.githubusercontent.com/95151698/147407754-d9f92007-e4a4-4854-ae8c-4c139144905b.png)
 ![image](https://user-images.githubusercontent.com/95151698/148667311-cab5d766-df18-4ce0-8693-fefa5ca334fb.png)
 > 追随及引领科技潮流。
