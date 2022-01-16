@@ -142,24 +142,14 @@ DXOMARK 对于三星 Galaxy Z Fold3 5G 的评语为“大跃进”，拍照、�
 
 
 优点：1、工艺顶级，严丝合缝，颇具工艺品质感；
-
-           2、内屏显示效果好，120Hz自适应刷新率的流畅体验十分畅快；
-
-           3、交互体验好，多款应用适配性好；
-
-           4、硬件顶级，游戏体验属于一流水准
-
-
-
+     2、内屏显示效果好，120Hz自适应刷新率的流畅体验十分畅快；
+     3、交互体验好，多款应用适配性好；
+     4、硬件顶级，游戏体验属于一流水准
+     
 缺点：1、手感依旧压手，握持感一般；
-
-           2、充电速度偏慢；
-
- 
+     2、充电速度偏慢；
 
 三星Galaxy Z Fold2 5G作为折叠屏机型中的代表作，丰富多彩的使用方式，让折叠屏不再只是为了炫技而生，这些创造性的使用方法让小雷见识到了折叠屏背后的巨大潜力。从这点来说，三星Galaxy Z Fold2 5G扩展了折叠屏机型的体验差异化，这种差异化的特征，是直板机型将屏幕尺寸扩展后也无法达到的。折叠屏技术本身就代表了当下最高的技术实力，我们都能切实感到折叠屏技术的高大上，但我们之前都不知道折叠屏手机能怎么用，有什么用。
-
-
 
 虽然目前的折叠屏手机对于普通消费者来说价格还是过于高昂，但这有可能会成为未来手机的发展方向之一，届时折叠屏也很有可能会普及到每一个消费者手上。
 
@@ -168,7 +158,6 @@ DXOMARK 对于三星 Galaxy Z Fold3 5G 的评语为“大跃进”，拍照、�
 ![image](https://user-images.githubusercontent.com/95151698/148667441-2b1e4ea8-8f31-4537-8f5e-abaf9cedae5f.png)
 ![image](https://user-images.githubusercontent.com/95151698/148667448-035afc02-f410-40e8-bbdf-bc4709555e48.png)
 ![image](https://user-images.githubusercontent.com/95151698/148667467-5d358527-1443-467d-acc3-d07a09365deb.png)
-
 
 三星 Galaxy Fold 的出现，对于已经增长日趋停滞的智能手机行业来说无疑是一个新的方向。
 
@@ -186,6 +175,14 @@ DXOMARK 对于三星 Galaxy Z Fold3 5G 的评语为“大跃进”，拍照、�
 
 而要回答这个问题，三星仅靠现在的 Galaxy Fold 还不够，显然还要沉下来持续迭代数年的耐心。
 
+### [可折叠笔记本](https://www.theverge.com/2022/1/5/22867624/asus-zenbook-17-fold-oled-foldable-laptop-tablet-specs-price-release-date)
+
+![image](https://user-images.githubusercontent.com/95151698/149654756-513f57b6-5916-4d2e-a700-14938e0be970.png)
+
+手机已经可折叠了，现在轮到笔记本了。
+正在拉斯维加斯举办的 CES 2022 消费电子展上，华硕展示了一款17寸的可折叠笔记本，屏幕可以对折，携带十分方便。
+它既可以当作一整块液晶屏幕，配上蓝牙键盘使用，也可以折成90度，下半部分当成键盘和触摸板。
+这其实不是第一款可折叠笔记本，联想早在2020年就发布了可折叠的 THINKPAD X1 FOLD（下图），可惜只有13寸，对折后太小、下半部分没法当作键盘使用。它的主要缺点就是太贵，THINKPAD X1 FOLD 上市价格约2万元人民币，华硕这一款定于今年下半年上市，肯定也很贵。
 
 ## [为什么 Web3 与区块链有关](https://www.ruanyifeng.com/blog/2021/12/web3.html)
 
@@ -321,6 +318,11 @@ VR 技术可能来到了爆发的临界点，已经相当成熟了，跟日常�
 ![image](https://user-images.githubusercontent.com/95151698/146665071-1912e3eb-505f-4357-8b1e-a172b92def11.png)
 
 脸书公司改名 Meta 以后，发布了第一个元宇宙产品，叫做 Horizon Worlds，很像一个虚拟社区。本文是对 Horizon Worlds 的初步介绍。
+
+### [Coinbase 如何看待元宇宙（英文）](https://blog.coinbase.com/how-coinbase-thinks-about-the-metaverse-16d8070f4841)
+
+这篇文章的作者是 Coinbase 的 CEO，谈了他们如何理解元宇宙。他给元宇宙下了一个定义，我觉得还不错。
+"元宇宙是一个大规模的、持久的、交互式的实时平台，由互相连接的虚拟世界组成，人们可以在其中进行社交、工作、交易、娱乐和创造。"
 
 ### [为了让数据更难抓，Meta 计划招募「赏金猎人」](https://www.ifanr.com/1461131)
 
@@ -798,6 +800,17 @@ Windows 11 还重新引入了小工具（widget），这是苹果和谷歌操作
 C 和 C++ 这两种语言不保证内存安全，后果就是所有软件安全问题的大约三分之二，都跟内存处理不当有或多或少的关系。
 -- 《[Rust 正在变成 Linux 的第二官方语言](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)》
 
+[线条画](https://publicdomainreview.org/collection/mellan-sudarium-of-saint-veronica)
+
+![image](https://user-images.githubusercontent.com/95151698/149655395-6d7c93c7-4f67-4547-a559-661e0a83ec33.png)
+
+中世纪的法国画家克劳德·梅兰 （Claude Mellan，1598-1688）在1649年制作了一幅版画，内容是耶稣的头像。
+这幅画非常有名，因为它是用一根线条画成的，线条的起点就是耶稣的鼻尖。
+
+![image](https://user-images.githubusercontent.com/95151698/149655402-6daa6e36-df52-4133-b1c1-a8429e0be158.png)
+
+这根线条一口气画到底，没有断过，也没有跟其他线条交叉。
+
 ## 参考
 
 1. [阮一峰](https://www.ruanyifeng.com/blog/)
@@ -827,5 +840,7 @@ C 和 C++ 这两种语言不保证内存安全，后果就是所有软件安全�
 25. [为什么DXOMARK测试独一无二?](https://www.dxomark.cn/about-us/)
 26. [Google 正改進 Windows 和 Android 的整合功能](https://chinese.engadget.com/google-ces-2022-news-fast-pair-nearby-share-windows-chrome-cast-194554964.html)
 27. [少数派](https://sspai.com/)
+28. [马斯克最新访谈实录（中文）](https://chedongxi.com/p/264710.html)
+29. [ALL BLACK SCREEN](https://allblackscreen.com)
 
 [返回主页](/)
