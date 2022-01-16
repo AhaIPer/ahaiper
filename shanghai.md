@@ -220,6 +220,37 @@
 
 更新日期：2021年11月25日21:30
 
+## 返沪
+
+2022.1.16日 入住酒店
+
+![image](https://user-images.githubusercontent.com/95151698/149650513-383143a5-94a4-44b1-8784-69485fc8ac0f.png)
+![image](https://user-images.githubusercontent.com/95151698/149650522-866829f0-3457-47f0-a306-20fd3005160e.png)
+![image](https://user-images.githubusercontent.com/95151698/149650515-c0e70f0d-7e60-4b49-9b99-5a699d70da13.png)
+![image](https://user-images.githubusercontent.com/95151698/149650517-cda317e8-7539-44aa-841a-040371c5592d.png)
+![image](https://user-images.githubusercontent.com/95151698/149650525-98e93a91-d4be-4fce-bc57-218fbebee32d.png)
+![image](https://user-images.githubusercontent.com/95151698/149650520-4596266b-e29f-429f-8f8e-fae512e8f4d6.png)
+![image](https://user-images.githubusercontent.com/95151698/149650523-fa4825ee-5b7c-4b60-8370-de9b2ab9c33c.png)
+![image](https://user-images.githubusercontent.com/95151698/149650529-457018ae-1b73-4902-80dc-3f34a149dc58.png)
+![image](https://user-images.githubusercontent.com/95151698/149650527-cdbf97d3-9d6c-4f38-b287-239bca35a998.png)
+![image](https://user-images.githubusercontent.com/95151698/149650532-51defa5c-f193-4e96-b29a-f071f7d1ab75.png)
+![image](https://user-images.githubusercontent.com/95151698/149650526-0329e39c-00aa-4cf5-8677-e18e4ae189bd.png)
+![image](https://user-images.githubusercontent.com/95151698/149650534-4498900e-49af-4252-9609-ce149a2a9cf5.png)
+![image](https://user-images.githubusercontent.com/95151698/149650545-e2268198-55a3-4c02-bb26-0e9965673590.png)
+![image](https://user-images.githubusercontent.com/95151698/149650548-f268d7ba-ae1c-48aa-bcc1-53d5cdcccd36.png)
+![image](https://user-images.githubusercontent.com/95151698/149650546-f770a0b4-7e00-417e-8496-737d22589f28.png)
+![image](https://user-images.githubusercontent.com/95151698/149650535-f31ded2c-c8e6-4c0d-954d-f2d9e6c62926.png)
+![image](https://user-images.githubusercontent.com/95151698/149650539-f647376a-9310-4f90-a742-15664c4a84ba.png)
+![image](https://user-images.githubusercontent.com/95151698/149650543-bf1fc35c-0edb-4c6d-8b38-4bf94d7da6e4.png)
+![image](https://user-images.githubusercontent.com/95151698/149650549-7bad3e75-61bc-40d7-8d74-74ffd6018828.png)
+![image](https://user-images.githubusercontent.com/95151698/149650551-35ee782e-39a4-43bd-9ab4-506de7d04be3.png)
+![image](https://user-images.githubusercontent.com/95151698/149650554-b9e85afa-297e-4fac-81df-176c0c9bf71f.png)
+![image](https://user-images.githubusercontent.com/95151698/149650556-616bed02-e631-4e8d-b5e2-4d7b461e4d2c.png)
+![image](https://user-images.githubusercontent.com/95151698/149650558-7d3f0644-7875-40ad-b770-2460dd1d7e33.png)
+![image](https://user-images.githubusercontent.com/95151698/149650559-4c77046e-7137-4041-8e2f-cc8031afd343.png)
+![image](https://user-images.githubusercontent.com/95151698/149650562-499f99d6-4c72-4e27-8487-825f10b44747.png)
+
+
 ## 摄影
 
 ### [Drone Photo Awards](https://droneawards.photo/gallery/2021)
