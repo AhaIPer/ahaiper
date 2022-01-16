@@ -40,6 +40,10 @@
 你说得越快，对方的理解力就会变得更慢。
 ```
 
+![image](https://user-images.githubusercontent.com/95151698/149644341-6ccd989e-72bb-46da-ad30-1ceeb16dba8e.png)
+![image](https://user-images.githubusercontent.com/95151698/149644344-abdcf315-3724-437c-8fb3-1508b5535128.png)
+> 安全感、合作性及自组织
+
 ## 古典系列
 
 ![image](https://user-images.githubusercontent.com/95151698/146620695-f77ca373-59b5-49ff-a253-434b240016c7.png)
@@ -166,6 +170,12 @@
 ![](/img/7DA46449-0803-400B-B237-ABBC4F51F4E1.jpeg)
 
 ## [给管理者的沟通训练营](https://www.dedao.cn/trainingCamp/detail/aBAjYy4g0BM8Zqgkj34NR5r1dVznlOQJreQ92xGbXvAW6mJYDEeL7oaKy0W8OX5Z?type=trainingcamp)
+
+![image](https://user-images.githubusercontent.com/95151698/149644234-b11e0ad9-9a4f-426d-99bb-737ff45a8f26.png)
+
+![image](https://user-images.githubusercontent.com/95151698/149644263-7df564f5-b61a-43a4-84f3-084a817cbd3e.png)
+
+
 
 > 向下沟通不是去改造个体的人，而是改造人所在的环境，因为环境塑造人，我可以通过塑造环境来改善团队的沟通。
 
