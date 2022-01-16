@@ -75,6 +75,35 @@
 决策思路 	关键变量/新方案对比旧方案的优势/现有方案的潜在风险 
 情报视野 	那些对公司未来决策可能会有影响的情报和动态（比如竞品动态、行业前沿） 
 	
+![image](https://user-images.githubusercontent.com/95151698/149656626-432c8479-4209-4228-884e-e19e5fe3adfe.png)
+![image](https://user-images.githubusercontent.com/95151698/149656633-9f1a0950-324c-4960-a0c1-d507ed968bf2.png)
+![image](https://user-images.githubusercontent.com/95151698/149656634-467c32fb-4a72-4582-9db0-dd81dc757e48.png)
+![image](https://user-images.githubusercontent.com/95151698/149656637-6aaa1370-0215-46e7-b9da-2dbb8c311576.png)
+
+申请模板
+标题 	说明要申请资源 
+开头 	【行动】：要申请什么资源 
+【观点】：表明你的观点
+【资源回报 】	申请原因： 
+1. 
+2. 
+3. 
+…… 
+投入之后能够带来什么新增： 
+1. 
+2. 
+3. 
+…… 
+【风险提示】 	资源投入之后会带来哪些新麻烦： 
+1. 
+2. 
+3. 
+…… 
+补救方案： 
+1. 
+2. 
+3. 
+…… 
 
 
 ### 周报及年终总结
