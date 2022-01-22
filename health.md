@@ -101,5 +101,6 @@
 3. [睡眠的重要性](https://www.jianshu.com/p/1874a6c2c41d)
 4. [美国心脏协会：改善心脏健康的十大饮食模式](https://www.bbc.com/zhongwen/simp/science-59508516)
 5. [CCTV《面对面》：健康专家洪昭光的健康忠告](http://news.sina.com.cn/c/2003-02-08/1012899979.shtml)
+6. [如何自助 —— 助人即助己](https://github.com/xiaolai/help-to-be-helped)
 
 [返回主页](/)
