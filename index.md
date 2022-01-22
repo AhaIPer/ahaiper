@@ -197,11 +197,12 @@
 ## 参考
 
 1. [得到](https://www.dedao.cn/)
-2. [codepng](https://www.codepng.app)
-3. [Repobeats](https://repobeats.axiom.co/configs)
-4. [giscus](https://giscus.app/zh-CN)
-5. [HTML/URL To Markdown](https://devtool.tech/html-md)
-6. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
-7. [lantern](https://github.com/getlantern/lantern)
+2. [坐享其成——最简单的大脑锻炼方式](https://github.com/xiaolai/zuoxiangqicheng)
+3. [codepng](https://www.codepng.app)
+4. [Repobeats](https://repobeats.axiom.co/configs)
+5. [giscus](https://giscus.app/zh-CN)
+6. [HTML/URL To Markdown](https://devtool.tech/html-md)
+7. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
+8. [lantern](https://github.com/getlantern/lantern)
  
 ![Alt](https://repobeats.axiom.co/api/embed/c7c2cd5f92aeed889d24ba9f50aaebc6cf918a3c.svg "Repobeats analytics image")
