@@ -250,6 +250,23 @@
 ![image](https://user-images.githubusercontent.com/95151698/149650559-4c77046e-7137-4041-8e2f-cc8031afd343.png)
 ![image](https://user-images.githubusercontent.com/95151698/149650562-499f99d6-4c72-4e27-8487-825f10b44747.png)
 
+2022.1.22日 庭酒店，开启Meta
+
+![image](https://user-images.githubusercontent.com/95151698/150635635-d626e6de-5ff9-46c4-9029-4979b695f5cd.png)
+![image](https://user-images.githubusercontent.com/95151698/150635637-5ebd08ec-3326-4eb9-85b6-22021789fd47.png)
+![image](https://user-images.githubusercontent.com/95151698/150635644-e0fcdb73-878d-4c85-a818-a2d130bdd08f.png)
+![image](https://user-images.githubusercontent.com/95151698/150635647-fae42c2b-316d-4d93-904f-02d8a86b0356.png)
+![image](https://user-images.githubusercontent.com/95151698/150635651-138c6c1e-e676-4b74-8138-10fb18a06df3.png)
+![image](https://user-images.githubusercontent.com/95151698/150635654-c656451c-2617-43af-9138-432a53e8debc.png)
+![image](https://user-images.githubusercontent.com/95151698/150635656-0faad13a-8657-4ccb-9606-3d0538a4740f.png)
+![image](https://user-images.githubusercontent.com/95151698/150635657-db0f13c0-d828-4a2e-aaa5-a0340dc02ea0.png)
+![image](https://user-images.githubusercontent.com/95151698/150635678-ba68899a-971e-4f78-978e-01bae086ffc3.png)
+![image](https://user-images.githubusercontent.com/95151698/150635679-918d0584-caa0-43dd-bf1f-1edafdb21afa.png)
+![image](https://user-images.githubusercontent.com/95151698/150635683-40aecaa0-8641-4430-aa19-e8797f5dd986.png)
+![image](https://user-images.githubusercontent.com/95151698/150635686-627802fd-c6f7-44f1-af6b-bcebd2f18a28.png)
+![image](https://user-images.githubusercontent.com/95151698/150635688-b6d871aa-8972-4e5e-bb26-300d70e65b7c.png)
+![image](https://user-images.githubusercontent.com/95151698/150635691-b0bcfe7f-f74d-4385-b077-20926136ade3.png)
+
 
 ## 摄影
 
