@@ -686,5 +686,6 @@ Measures——方法
 ## 参考
 
 1. [沟通营学习笔记](https://www.jianshu.com/p/2ef5c4a7188e)
+2. [管人和技术是两种不同的能力](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)
 
 [返回主页](/)
