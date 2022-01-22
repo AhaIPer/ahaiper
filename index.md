@@ -181,7 +181,13 @@
 
 ![image](https://user-images.githubusercontent.com/95151698/149658678-467df182-2d11-4107-a874-1f65b2e912b1.png)
 ![image](https://user-images.githubusercontent.com/95151698/149658681-6e63c2b5-20c1-4693-8648-bb45611225b2.png)
+> 急为心窄
 
+![image](https://user-images.githubusercontent.com/42224627/150636624-d0499eef-57b9-4ac6-a622-438250544b7b.png)
+> 自己情绪的奴隶，并不是一种力量的表现。
+
+![image](https://user-images.githubusercontent.com/42224627/150636635-647b071a-d5d1-46aa-b765-c09eb4354a1f.png)
+> 喝醉酒的样子，是美是丑，是自己的行为。
 
 ## [商业](/commerce.md)
 ## [科技](/technology.md)
