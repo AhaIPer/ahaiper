@@ -29,5 +29,6 @@
 ## 参考
 
 1. [定投改变命运](https://ri.firesbox.com/#/cn/)
+2. [微信互联网平民创业](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network)
 
 [返回主页](/)
