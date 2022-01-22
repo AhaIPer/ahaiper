@@ -80,15 +80,6 @@
 ![image](https://user-images.githubusercontent.com/95151698/147385541-b300a6e9-23a9-4cb2-8b1e-b200e937dc7b.png)
 > 自编歌曲及舞蹈
 
-![image](https://user-images.githubusercontent.com/95151698/146660230-971571f7-8630-4bd4-8285-c2fd0536c6e0.png)
-> 天马星空
-
-![77913e582873d5ed1df02d9864e021e](https://user-images.githubusercontent.com/95151698/147406230-570e50e1-9a6d-4099-9e2a-3ad32be7527e.png)
-![c3ea321780fc49f76071baca24ba1f2](https://user-images.githubusercontent.com/95151698/147406234-4cc3a9b0-6495-4b97-ab5c-7f440724ad85.png)
-![86ac531e729820755e8d20f5bf7b919](https://user-images.githubusercontent.com/95151698/147406235-e07bba03-f5ab-493e-88de-b816a097821f.png)
-![6d3ececf2ce041330c67274395d0dc3](https://user-images.githubusercontent.com/95151698/147406239-353c54e2-fcc7-4a03-9fd1-2664d7ee48cd.png)
-> 立足当下，放眼全球。
-
 ![image](https://user-images.githubusercontent.com/95151698/147845535-b11a540d-f6b8-4fd9-b24c-31d081f6da5d.png)
 > 元旦快乐
 
