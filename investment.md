@@ -28,6 +28,6 @@
 
 ## 参考
 
-1. [沟通营学习笔记](https://www.jianshu.com/p/2ef5c4a7188e)
+1. [定投改变命运](https://ri.firesbox.com/#/cn/)
 
 [返回主页](/)
