@@ -6,6 +6,9 @@
 二、价值、擅长及兴趣
 三、执行、沟通及协作
 
+![image](https://user-images.githubusercontent.com/95151698/150659956-e7bfd4d1-c4f1-468d-bd68-3dde28e28877.png)
+> 沟通是一场无限的游戏，弹性空间...
+
 > 开胃菜：[科技周报](https://www.ruanyifeng.com/blog/)、[得到课程](https://www.dedao.cn/course/detail?id=jvwNqE9ZL10K4E0sDoVG7Pp8mDnRWo)...
 
 ![image](https://user-images.githubusercontent.com/42224627/149654305-1c49f95c-1563-4348-b682-f359a52a9f88.png)
@@ -191,15 +194,22 @@
 ## [健康](/health.md)
 ## [投资](/investment.md)
 
+![image](https://user-images.githubusercontent.com/95151698/150660104-0f6109d1-c698-4f22-ade8-2709eaf80474.png)
+[工作是修行](https://mp.weixin.qq.com/s/rk70uNaS25kYgj1EYdDCDg)，工作就是要持续完善，磨练心性，输出品质；
+人生是旅行，用旅行时的欣赏心态来对待所遇到的每一个人，每一件事。
+
+
 ## 参考
 
 1. [得到](https://www.dedao.cn/)
-2. [坐享其成——最简单的大脑锻炼方式](https://github.com/xiaolai/zuoxiangqicheng)
-3. [codepng](https://www.codepng.app)
-4. [Repobeats](https://repobeats.axiom.co/configs)
-5. [giscus](https://giscus.app/zh-CN)
-6. [HTML/URL To Markdown](https://devtool.tech/html-md)
-7. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
-8. [lantern](https://github.com/getlantern/lantern)
+2. [罗辑思维 微信号: luojisw](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NjAxOTU4MA==&scene=124#wechat_redirect)
+3. [春暖花开 微信号: CCH_chunnuanhuakai](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU1NTY0OTI1NA==&scene=124#wechat_redirect)
+4. [坐享其成——最简单的大脑锻炼方式](https://github.com/xiaolai/zuoxiangqicheng)
+5. [codepng](https://www.codepng.app)
+6. [Repobeats](https://repobeats.axiom.co/configs)
+7. [giscus](https://giscus.app/zh-CN)
+8. [HTML/URL To Markdown](https://devtool.tech/html-md)
+9. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
+10. [lantern](https://github.com/getlantern/lantern)
  
 ![Alt](https://repobeats.axiom.co/api/embed/c7c2cd5f92aeed889d24ba9f50aaebc6cf918a3c.svg "Repobeats analytics image")
