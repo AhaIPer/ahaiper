@@ -30,5 +30,8 @@
 
 1. [定投改变命运](https://ri.firesbox.com/#/cn/)
 2. [微信互联网平民创业](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network)
+3. [李想给创业者的建议：把握住节奏，是成功的核心能力](http://www.iheima.com/article-331199.html)
+4. [爱黑马](https://www.iheima.com)
+5. [人人都是产品经理](http://www.woshipm.com) 
 
 [返回主页](/)
