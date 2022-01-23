@@ -7,21 +7,6 @@
 对于非虚构类书籍，作者的写作能力与书籍销量无关。事实上，一个作者如果写得简明扼要，完全可以将一本350页的非虚构类书籍，简化成一篇40页的长文，但是这样的话，书价就到不了15美元了，而且销量也会比较小。
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=29507641)
 
-## 得到年度总结
-
-![image](https://user-images.githubusercontent.com/95151698/147210600-5c8dadb4-d689-48b9-a854-0e998d9613aa.png)
-![image](https://user-images.githubusercontent.com/95151698/147210747-c697147d-e978-4a20-9c1a-0209d70630fd.png)
-
-![image](https://user-images.githubusercontent.com/95151698/147210644-038348dd-3839-4135-8b8d-e926a23c0abf.png)
-![image](https://user-images.githubusercontent.com/95151698/147210664-3986c88b-4ccd-471b-9a97-7148ca9b5f64.png)
-![image](https://user-images.githubusercontent.com/95151698/147210672-dd105ff8-d91d-4999-aacc-1dcfe9dfa2f1.png)
-![image](https://user-images.githubusercontent.com/95151698/147210680-f85f2a24-a7ef-400f-a6eb-580f0a811953.png)
-![image](https://user-images.githubusercontent.com/95151698/147210693-8ceb2ac0-122c-442d-a4a0-011f3278ba4f.png)
-![image](https://user-images.githubusercontent.com/95151698/147210706-fb2f9029-1919-4725-8245-8bf793828f1f.png)
-![image](https://user-images.githubusercontent.com/95151698/147210718-35ed854c-6aed-4da8-918d-68cd7b5a01c8.png)
-
-
-
 ## 读写能力
 
 读写能力，根据联合国相关定义，具体指能够识别、理解、解释、创造、交流、计算和使用与不同情形相关的印刷或手写材料的能力。读写能力包含了一个连续性的学习过程，这种学习使得个人可以实现自己的目标，发展自己的知识和潜力，充分参与到一个更广泛的社会当中。
