@@ -86,6 +86,9 @@
 ![image](https://user-images.githubusercontent.com/95151698/147845535-b11a540d-f6b8-4fd9-b24c-31d081f6da5d.png)
 > 元旦快乐
 
+![image](https://user-images.githubusercontent.com/95151698/150677445-0a2bf8a7-09fa-4d3b-85c0-a959bc9f1612.png)
+> 儿童乐园
+
 ```
 慢就是快
 快就是慢
