@@ -44,6 +44,19 @@
 ![image](https://user-images.githubusercontent.com/95151698/149644344-abdcf315-3724-437c-8fb3-1508b5535128.png)
 > 安全感、合作性及自组织
 
+```
+先看需求，后提要求；
+让人心服口服不在于你是谁，在于你给大家带来什么；
+索取路越走越窄，付出路越走越宽。
+```
+
+![image](https://user-images.githubusercontent.com/95151698/151529471-69fa5eda-4c0b-417b-87ce-9f297ec7e98f.png)
+![image](https://user-images.githubusercontent.com/95151698/151529514-90e9a6a6-c253-4a19-a2af-b98f22372b63.png)
+![image](https://user-images.githubusercontent.com/95151698/151529564-95e9fe2c-a463-403e-8b9a-6e4e66b36eb9.png)
+![image](https://user-images.githubusercontent.com/95151698/151529701-bd2fc65e-9cff-4b76-8cd3-e3722ff75608.png)
+![image](https://user-images.githubusercontent.com/95151698/151529712-d2ac71cd-f322-4c6b-9549-2c843eb41398.png)
+
+
 ## 古典系列
 
 ![image](https://user-images.githubusercontent.com/95151698/146620695-f77ca373-59b5-49ff-a253-434b240016c7.png)
