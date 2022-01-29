@@ -81,6 +81,9 @@
 
 ![image](https://user-images.githubusercontent.com/95151698/151529362-90f0f025-efcf-438d-b45b-000fe7f89f7b.png)
 
+![image](https://user-images.githubusercontent.com/95151698/151648474-422ecc44-2d79-4360-a878-b83eb78da1a0.png)
+
+
 ### [第1讲 导向行动：怎么让写作促成结果？](https://www.dedao.cn/trainingCamp/learning?id=ldBNYWEA5mlBNjJGY0Rqzex2vWg97pmzoRQ1yrZaXdo8DKLEbn6M4kVO3jLX3zAv&type=trainingcamp)
 
 ![image](https://user-images.githubusercontent.com/95151698/150661888-792fa791-1dc2-4e8c-9250-0babc2e9c9b8.png)
