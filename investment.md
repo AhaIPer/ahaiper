@@ -6,6 +6,9 @@
 
 ## 案例
 
+![image](https://user-images.githubusercontent.com/95151698/151648635-9cf9c790-2e98-4e52-844b-009c209a1dc5.png)
+
+
 ### [最大的机会来自新技术](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
 
 ![image](https://user-images.githubusercontent.com/95151698/149654593-7f14520f-3322-4a39-9c64-c06aa9af3202.png)
