@@ -1680,5 +1680,6 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 9. [成年人](https://www.jianshu.com/p/3432ad003b4f)
 10. [《纽约时报》2021年度十大好书](https://cn.nytimes.com/culture/20211201/best-books-2021/)
 11. [字节跳动不需要总部大楼](https://mp.weixin.qq.com/s/nPChaKQcotEzttnSysom5w)
+12. [孤独大脑](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5ODAyMjg3Ng==&scene=124#wechat_redirect)
 
 [返回主页](/)
