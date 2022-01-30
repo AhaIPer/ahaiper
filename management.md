@@ -701,5 +701,6 @@ Measures——方法
 1. [沟通营学习笔记](https://www.jianshu.com/p/2ef5c4a7188e)
 2. [管人和技术是两种不同的能力](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)
 3. [我也有话要说——普通人的当众讲话技能](http://lixiaolai.com/#/i-have-a-say/) 
+4. [宁向东的管理学课](https://www.dedao.cn/course/detail?id=x9emjk1LQqzoK2MSoX2lbY6Pv0BDWZ) 
 
 [返回主页](/)
