@@ -202,6 +202,14 @@
 [工作是修行](https://mp.weixin.qq.com/s/rk70uNaS25kYgj1EYdDCDg)，工作就是要持续完善，磨练心性，输出品质；
 人生是旅行，用旅行时的欣赏心态来对待所遇到的每一个人，每一件事。
 
+```
+_config.yml 包括一些在运行时一次性读入的全局配置和变量定义，在自动生成的过程中并不会重新加载，除非重新运行。
+通过使用YAML 头信息可以指定站点的页面和文章的配置。
+Jekyll 提供方法在站点配置中设置默认值，而不是在每次创建一个新的文章或页面重复此配置。
+要做到这一点，可以在项目根目录下的 _config.yml 文件里设置 defaults 的值指定全站范围的默认值。
+defaults 保存一个范围/值的对的数组，指定了默认值要设置给某个特定文件路径下的全部文件，或者在该路径下某特定文件类型的文件。
+可以在页面或文章的文件里覆盖 _config.yml 的 defaults 部分的设定。
+```
 
 ## 参考
 
@@ -215,5 +223,6 @@
 8. [HTML/URL To Markdown](https://devtool.tech/html-md)
 9. [GitHub Wrapped](https://www.githubtrends.io/wrapped)
 10. [lantern](https://github.com/getlantern/lantern)
+11. [Jekyll](https://aptx1231.github.io/2020/12/03/Jekyll/) 
  
 ![Alt](https://repobeats.axiom.co/api/embed/c7c2cd5f92aeed889d24ba9f50aaebc6cf918a3c.svg "Repobeats analytics image")
