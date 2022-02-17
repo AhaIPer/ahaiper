@@ -276,6 +276,14 @@
 ![image](https://user-images.githubusercontent.com/95151698/150636698-38540ab7-ba6e-4f6b-aa46-ec1ef5f423a4.png)
 ![image](https://user-images.githubusercontent.com/95151698/150636696-ddddf0e7-1ddc-4318-b126-9c333a32bdab.png)
 
+2022.2.17日 庭酒店，电影《爱情神话》
+
+![image](https://user-images.githubusercontent.com/99532302/154475122-c3fd2c73-d349-4a06-9027-d59e0b695f0e.png)
+![image](https://user-images.githubusercontent.com/99532302/154475148-5da3c4fa-1ff1-4398-8b34-6f9a83c42019.png)
+![image](https://user-images.githubusercontent.com/99532302/154475166-5325d77c-3168-40f0-a4b5-d352e6e7040f.png)
+![image](https://user-images.githubusercontent.com/99532302/154475187-50b5b344-70cf-42e9-9bef-c4d2b1301c4d.png)
+![image](https://user-images.githubusercontent.com/99532302/154475212-f5b297a7-30c8-4e8e-ac86-bca279664b4f.png)
+![image](https://user-images.githubusercontent.com/99532302/154475222-9eb4378e-a80e-4af1-9d74-9d80d11b99d1.png)
 
 ## 摄影
 
