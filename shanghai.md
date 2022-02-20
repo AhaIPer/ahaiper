@@ -285,6 +285,43 @@
 ![image](https://user-images.githubusercontent.com/99532302/154475212-f5b297a7-30c8-4e8e-ac86-bca279664b4f.png)
 ![image](https://user-images.githubusercontent.com/99532302/154475222-9eb4378e-a80e-4af1-9d74-9d80d11b99d1.png)
 
+2022.2.20日 长泰广场，电视剧《人世间》
+
+![image](https://user-images.githubusercontent.com/95151698/154831060-8afe09fc-4681-4139-b729-f8f7e7f2ebe8.png)
+![image](https://user-images.githubusercontent.com/95151698/154831070-da7b1efc-a3a2-44af-a286-afe50bf990df.png)
+![image](https://user-images.githubusercontent.com/95151698/154831071-995a608f-d2f0-41e9-9e28-adf1000291ef.png)
+![image](https://user-images.githubusercontent.com/95151698/154831079-0115f480-3922-4382-895d-3fb0c8f59338.png)
+![image](https://user-images.githubusercontent.com/95151698/154831084-a9544edd-3764-462d-84d3-e74ebc087ac9.png)
+![image](https://user-images.githubusercontent.com/95151698/154831074-d9222de4-817e-4a6f-b92c-f532729ecc8f.png)
+![image](https://user-images.githubusercontent.com/95151698/154831077-274e7641-554c-4f1a-937b-28ae2aef2a54.png)
+![image](https://user-images.githubusercontent.com/95151698/154831086-72538526-1b45-4357-83ab-d95120e88f1e.png)
+![image](https://user-images.githubusercontent.com/95151698/154831080-f52ba9bd-68b3-46f7-b779-5808b9048bce.png)
+![image](https://user-images.githubusercontent.com/95151698/154831072-bbc9cb4a-f0ac-4017-b96a-ea126f910c42.png)
+![image](https://user-images.githubusercontent.com/95151698/154831088-50f3e312-f3c1-44c0-9da6-f074878671a8.png)
+![image](https://user-images.githubusercontent.com/95151698/154831089-0f864916-3ee9-4c75-a38c-cdcbf3dbcbc6.png)
+![image](https://user-images.githubusercontent.com/95151698/154831082-67e96a32-854a-4782-943d-32a3efe435aa.png)
+![image](https://user-images.githubusercontent.com/95151698/154831102-3b0ef77c-cda8-4809-8638-6a1b44e66ce0.png)
+![image](https://user-images.githubusercontent.com/95151698/154831097-180b1adf-6021-403a-b8b8-1d483f4f1741.png)
+![image](https://user-images.githubusercontent.com/95151698/154831094-d357643e-f97c-46e3-a764-e134354ed104.png)
+![image](https://user-images.githubusercontent.com/95151698/154831092-0f773c23-df01-4fbe-90b6-eaa56c3cefb0.png)
+![image](https://user-images.githubusercontent.com/95151698/154831108-30abd151-3fd3-4d71-ab64-01a1dfe1a166.png)
+![image](https://user-images.githubusercontent.com/95151698/154831091-c73556a4-03b4-4787-8c14-fc0f3dc68124.png)
+![image](https://user-images.githubusercontent.com/95151698/154831114-4c0584a4-f575-4208-bc8e-7180fa6c3928.png)
+![image](https://user-images.githubusercontent.com/95151698/154831117-9f9dd568-bfa1-4227-8aef-2c60a7d55b28.png)
+![image](https://user-images.githubusercontent.com/95151698/154831119-3091cb09-3ac8-4f52-8d56-916037d6e46a.png)
+![image](https://user-images.githubusercontent.com/95151698/154831106-f220e73b-c389-4882-ac13-72183e8ff39f.png)
+![image](https://user-images.githubusercontent.com/95151698/154831124-1d1b5e16-1e9f-42d8-b7e4-39d44cf1eebc.png)
+![image](https://user-images.githubusercontent.com/95151698/154831121-38c11e71-144f-4d4c-97c8-0fef8400ca0a.png)
+![image](https://user-images.githubusercontent.com/95151698/154831103-c81b9074-0954-40c1-b22e-def8728dcc58.png)
+![image](https://user-images.githubusercontent.com/95151698/154831128-c703d609-6210-40c7-bc6d-2aec2ad69a5b.png)
+![image](https://user-images.githubusercontent.com/95151698/154831132-7eb6c1b6-5e31-4742-b639-be0e010c5d62.png)
+![image](https://user-images.githubusercontent.com/95151698/154831127-4d08d301-45aa-4119-8c56-79a024db8f5c.png)
+![image](https://user-images.githubusercontent.com/95151698/154831126-eed49ba7-ee66-4ba6-a561-1383f9514627.png)
+![image](https://user-images.githubusercontent.com/95151698/154831134-1ca83bd8-e93e-4250-bbdf-f4ea5f1fa6ba.png)
+![image](https://user-images.githubusercontent.com/95151698/154831137-6e4c3d1e-0e61-42d2-8228-856bbd1fbf29.png)
+![image](https://user-images.githubusercontent.com/95151698/154831140-ba0010cf-17e0-49d0-a051-7ad82cb4f112.png)
+
+
 ## 摄影
 
 ### [Drone Photo Awards](https://droneawards.photo/gallery/2021)
