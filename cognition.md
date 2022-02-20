@@ -35,6 +35,35 @@
 ![image](https://user-images.githubusercontent.com/95151698/149644361-d9c784d5-16f0-4f62-ac47-289bc006aab3.png)
 ![image](https://user-images.githubusercontent.com/95151698/149644367-0a3ff064-11cf-42a9-b7a8-62aad1118121.png)
 
+## 零散片段
+
+![image](https://user-images.githubusercontent.com/95151698/154831198-a8c940a1-5ffa-4f71-a0ea-9e50b3b0556e.png)
+![image](https://user-images.githubusercontent.com/95151698/154831208-666efdbd-03dd-4257-a504-98d8cfce8935.png)
+![image](https://user-images.githubusercontent.com/95151698/154831200-31fef15e-eda1-435c-a8bc-be83494bfa1f.png)
+![image](https://user-images.githubusercontent.com/95151698/154831206-75cbee99-1af1-4c5e-a122-7a843d180656.png)
+![image](https://user-images.githubusercontent.com/95151698/154831203-6a50842e-6f72-47d5-91c1-31f906f7ea2f.png)
+![image](https://user-images.githubusercontent.com/95151698/154831212-cc45b8de-d044-48d1-8554-48b19eba8f34.png)
+![image](https://user-images.githubusercontent.com/95151698/154831209-c9ccd337-44a1-4d09-ac0c-bcb9a5267fe8.png)
+![image](https://user-images.githubusercontent.com/95151698/154831223-c4560231-a8fd-47e4-b3e5-75c0eb303279.png)
+![image](https://user-images.githubusercontent.com/95151698/154831217-02171934-4678-4679-affc-c575890536e4.png)
+![image](https://user-images.githubusercontent.com/95151698/154831229-c3c32281-5532-487e-a6a0-9273ff282080.png)
+![image](https://user-images.githubusercontent.com/95151698/154831218-be91b447-47e3-4fcb-b50b-4526f000bec3.png)
+![image](https://user-images.githubusercontent.com/95151698/154831219-c318ccf4-e542-4786-bea3-72ec01d9aed0.png)
+![image](https://user-images.githubusercontent.com/95151698/154831215-69c1117c-8a42-4353-97b9-a0b4bb7fbdd0.png)
+![image](https://user-images.githubusercontent.com/95151698/154831237-dc7dd348-940f-431d-85c4-62c2da8a69be.png)
+![image](https://user-images.githubusercontent.com/95151698/154831242-44d79995-ea74-4335-8272-37ff29f448d7.png)
+![image](https://user-images.githubusercontent.com/95151698/154831233-5caed6d7-c6f8-4b62-a1d3-0707a889ca8c.png)
+![image](https://user-images.githubusercontent.com/95151698/154831245-ae10c836-6ace-4c41-a27a-37aa4c391d83.png)
+![image](https://user-images.githubusercontent.com/95151698/154831249-765308c7-7135-436f-b1ab-9631e718f304.png)
+![image](https://user-images.githubusercontent.com/95151698/154831257-a010aa7d-0828-4992-b391-22599d8468c3.png)
+![image](https://user-images.githubusercontent.com/95151698/154831262-9958bd2d-81ec-4a65-a710-f51c2ed13663.png)
+![image](https://user-images.githubusercontent.com/95151698/154831260-2257b893-668f-4965-8e30-ca0d966c9416.png)
+![image](https://user-images.githubusercontent.com/95151698/154831268-de0d8c29-9974-417b-9ef1-89ada2228735.png)
+![image](https://user-images.githubusercontent.com/95151698/154831253-eb243855-c21a-492c-a427-ef877fa0fcd3.png)
+![image](https://user-images.githubusercontent.com/95151698/154831269-b85ecf6f-aa63-4145-a00b-5702585fdb50.png)
+![image](https://user-images.githubusercontent.com/95151698/154831263-65b56349-b738-4e5e-bd75-e72c9a95ee7d.png)
+![image](https://user-images.githubusercontent.com/95151698/154831264-e041ea39-c9ee-4cf2-9af7-a43dc7532079.png)
+
 
 ## [小说家的时代，永远地过去了](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)
 
